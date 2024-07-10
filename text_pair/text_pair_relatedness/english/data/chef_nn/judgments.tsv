@@ -1,0 +1,564 @@
+instanceID	label	comment	annotator
+0_chef_nn	2.0	 	annotator2
+1_chef_nn	3.0	 	annotator2
+2_chef_nn	1.0	 	annotator2
+3_chef_nn	1.0	 	annotator2
+4_chef_nn	4.0	 	annotator2
+5_chef_nn	3.0	 	annotator2
+6_chef_nn	4.0	 	annotator2
+7_chef_nn	2.0	 	annotator2
+8_chef_nn	3.0	 	annotator2
+9_chef_nn	3.0	 	annotator2
+10_chef_nn	3.0	 	annotator2
+11_chef_nn	2.0	 	annotator2
+12_chef_nn	4.0	 	annotator2
+13_chef_nn	2.0	 	annotator6
+5_chef_nn	2.0	 	annotator6
+14_chef_nn	2.0	 	annotator6
+15_chef_nn	2.0	 	annotator6
+16_chef_nn	4.0	 	annotator6
+17_chef_nn	4.0	 	annotator6
+18_chef_nn	2.0	 	annotator6
+19_chef_nn	2.0	 	annotator6
+20_chef_nn	4.0	 	annotator6
+21_chef_nn	4.0	 	annotator6
+22_chef_nn	4.0	 	annotator6
+23_chef_nn	4.0	 	annotator6
+24_chef_nn	4.0	 	annotator6
+25_chef_nn	2.0	 	annotator6
+26_chef_nn	4.0	 	annotator6
+27_chef_nn	4.0	 	annotator6
+28_chef_nn	3.0	 	annotator5
+29_chef_nn	3.0	 	annotator5
+30_chef_nn	3.0	 	annotator5
+31_chef_nn	-	foreign langage	annotator5
+32_chef_nn	2.0	 	annotator5
+33_chef_nn	2.0	 	annotator5
+4_chef_nn	4.0	 	annotator5
+34_chef_nn	4.0	 	annotator5
+35_chef_nn	2.0	 	annotator5
+25_chef_nn	2.0	 	annotator5
+36_chef_nn	2.0	 	annotator5
+37_chef_nn	4.0	 	annotator5
+38_chef_nn	2.0	 	annotator5
+39_chef_nn	4.0	 	annotator0
+40_chef_nn	-	I think “chef de bataillon” is generally connsidered French	annotator0
+41_chef_nn	-	I think “chef de brigade” is generally connsidered French	annotator0
+42_chef_nn	-	I think “chef de brigade” is generally connsidered French	annotator0
+43_chef_nn	-	I think “chef de brigade” is generally connsidered French	annotator0
+19_chef_nn	-	I think “chef d'oeuvre” is still generally connsidered French, though it is sometimes used in English	annotator0
+44_chef_nn	4.0	 	annotator0
+24_chef_nn	4.0	 	annotator0
+30_chef_nn	-	I think “chef d'escadron” is generally connsidered French	annotator0
+45_chef_nn	-	I think both of these are French	annotator0
+46_chef_nn	-	UNK; I can't determine the meaning in sentence 1	annotator0
+47_chef_nn	-	I think both of these are French	annotator0
+32_chef_nn	-	I think “chef d'oeuvre” is still generally connsidered French, though it is sometimes used in English	annotator0
+48_chef_nn	-	ambiguous	annotator2
+49_chef_nn	4.0	 	annotator2
+50_chef_nn	4.0	 	annotator2
+51_chef_nn	4.0	 	annotator2
+52_chef_nn	1.0	 	annotator2
+53_chef_nn	4.0	 	annotator2
+54_chef_nn	4.0	 	annotator2
+55_chef_nn	-	ambiguous	annotator2
+56_chef_nn	-	French	annotator2
+57_chef_nn	4.0	 	annotator2
+58_chef_nn	-	ambiguous	annotator2
+59_chef_nn	4.0	 	annotator2
+60_chef_nn	4.0	 	annotator2
+61_chef_nn	4.0	 	annotator2
+62_chef_nn	-	ambiguous	annotator2
+63_chef_nn	4.0	 	annotator2
+64_chef_nn	-	 	annotator2
+65_chef_nn	4.0	 	annotator2
+66_chef_nn	4.0	 	annotator2
+67_chef_nn	4.0	 	annotator2
+68_chef_nn	3.0	 	annotator2
+69_chef_nn	1.0	 	annotator2
+70_chef_nn	1.0	 	annotator2
+71_chef_nn	4.0	 	annotator2
+72_chef_nn	3.0	 	annotator2
+73_chef_nn	4.0	 	annotator2
+30_chef_nn	1.0	 	annotator2
+74_chef_nn	4.0	 	annotator2
+75_chef_nn	1.0	 	annotator2
+76_chef_nn	4.0	 	annotator2
+77_chef_nn	4.0	 	annotator2
+78_chef_nn	4.0	 	annotator2
+79_chef_nn	1.0	 	annotator2
+80_chef_nn	4.0	 	annotator2
+81_chef_nn	4.0	 	annotator2
+82_chef_nn	4.0	 	annotator2
+83_chef_nn	4.0	 	annotator2
+84_chef_nn	4.0	 	annotator2
+85_chef_nn	4.0	 	annotator2
+86_chef_nn	4.0	 	annotator2
+87_chef_nn	2.0	 	annotator2
+88_chef_nn	4.0	 	annotator2
+89_chef_nn	4.0	 	annotator2
+90_chef_nn	1.0	 	annotator2
+91_chef_nn	4.0	 	annotator2
+92_chef_nn	1.0	 	annotator2
+93_chef_nn	-	ambiguous	annotator2
+94_chef_nn	4.0	 	annotator2
+95_chef_nn	4.0	 	annotator2
+96_chef_nn	-	ambiguous	annotator2
+97_chef_nn	4.0	 	annotator2
+98_chef_nn	4.0	 	annotator2
+99_chef_nn	-	 	annotator2
+100_chef_nn	4.0	 	annotator2
+101_chef_nn	1.0	 	annotator2
+102_chef_nn	4.0	 	annotator2
+103_chef_nn	4.0	 	annotator2
+104_chef_nn	4.0	 	annotator2
+105_chef_nn	-	ambiguous	annotator2
+106_chef_nn	4.0	 	annotator2
+107_chef_nn	4.0	 	annotator2
+108_chef_nn	-	 	annotator2
+109_chef_nn	4.0	 	annotator2
+110_chef_nn	2.0	 	annotator2
+111_chef_nn	4.0	 	annotator2
+112_chef_nn	4.0	 	annotator2
+113_chef_nn	4.0	 	annotator2
+114_chef_nn	1.0	 	annotator2
+115_chef_nn	4.0	 	annotator2
+116_chef_nn	4.0	 	annotator2
+117_chef_nn	4.0	 	annotator2
+118_chef_nn	4.0	 	annotator2
+119_chef_nn	1.0	 	annotator2
+104_chef_nn	3.0	 	annotator5
+120_chef_nn	4.0	 	annotator5
+103_chef_nn	4.0	 	annotator5
+66_chef_nn	3.0	 	annotator5
+121_chef_nn	3.0	 	annotator5
+58_chef_nn	4.0	 	annotator5
+89_chef_nn	3.0	 	annotator5
+65_chef_nn	4.0	 	annotator5
+0_chef_nn	3.0	 	annotator5
+122_chef_nn	4.0	 	annotator5
+98_chef_nn	3.0	 	annotator5
+123_chef_nn	3.0	 	annotator5
+124_chef_nn	3.0	 	annotator5
+90_chef_nn	4.0	 	annotator5
+80_chef_nn	3.0	 	annotator5
+77_chef_nn	2.0	 	annotator5
+101_chef_nn	3.0	 	annotator5
+125_chef_nn	3.0	 	annotator5
+75_chef_nn	3.0	 	annotator5
+64_chef_nn	2.0	 	annotator5
+76_chef_nn	4.0	 	annotator5
+49_chef_nn	3.0	 	annotator5
+126_chef_nn	2.0	 	annotator5
+88_chef_nn	3.0	 	annotator5
+127_chef_nn	2.0	 	annotator5
+128_chef_nn	2.0	 	annotator5
+52_chef_nn	3.0	 	annotator5
+86_chef_nn	3.0	 	annotator5
+129_chef_nn	3.0	 	annotator5
+130_chef_nn	3.0	 	annotator5
+131_chef_nn	4.0	 	annotator5
+62_chef_nn	2.0	 	annotator5
+92_chef_nn	3.0	 	annotator5
+63_chef_nn	3.0	 	annotator5
+132_chef_nn	2.0	French sentence, yet same root	annotator5
+133_chef_nn	2.0	 	annotator5
+134_chef_nn	3.0	 	annotator5
+135_chef_nn	2.0	 	annotator5
+136_chef_nn	3.0	 	annotator5
+137_chef_nn	3.0	 	annotator5
+138_chef_nn	4.0	 	annotator5
+5_chef_nn	2.0	 	annotator5
+59_chef_nn	4.0	 	annotator5
+139_chef_nn	-	not the same root	annotator5
+112_chef_nn	2.0	 	annotator5
+73_chef_nn	2.0	 	annotator5
+140_chef_nn	3.0	 	annotator5
+61_chef_nn	2.0	 	annotator5
+141_chef_nn	3.0	 	annotator5
+119_chef_nn	2.0	 	annotator5
+142_chef_nn	3.0	 	annotator5
+118_chef_nn	3.0	 	annotator5
+143_chef_nn	4.0	 	annotator5
+56_chef_nn	-	different language	annotator5
+144_chef_nn	3.0	 	annotator5
+145_chef_nn	2.0	 	annotator5
+79_chef_nn	2.0	 	annotator5
+115_chef_nn	2.0	 	annotator5
+146_chef_nn	2.0	 	annotator5
+83_chef_nn	2.0	 	annotator5
+147_chef_nn	3.0	 	annotator5
+148_chef_nn	2.0	 	annotator5
+149_chef_nn	4.0	 	annotator5
+84_chef_nn	2.0	 	annotator5
+150_chef_nn	4.0	 	annotator5
+151_chef_nn	4.0	 	annotator5
+152_chef_nn	2.0	 	annotator5
+114_chef_nn	2.0	 	annotator5
+153_chef_nn	2.0	 	annotator5
+154_chef_nn	3.0	 	annotator5
+71_chef_nn	2.0	 	annotator5
+155_chef_nn	-	different language	annotator5
+156_chef_nn	2.0	 	annotator4
+157_chef_nn	1.0	cook vs head	annotator4
+97_chef_nn	4.0	 	annotator4
+76_chef_nn	4.0	 	annotator4
+30_chef_nn	4.0	 	annotator4
+67_chef_nn	4.0	 	annotator4
+158_chef_nn	1.0	 	annotator4
+103_chef_nn	4.0	 	annotator4
+159_chef_nn	4.0	 	annotator4
+93_chef_nn	4.0	 	annotator4
+160_chef_nn	4.0	 	annotator4
+59_chef_nn	4.0	 	annotator4
+0_chef_nn	1.0	 	annotator4
+96_chef_nn	4.0	 	annotator4
+113_chef_nn	4.0	 	annotator4
+144_chef_nn	4.0	 	annotator4
+161_chef_nn	4.0	 	annotator4
+162_chef_nn	1.0	 	annotator4
+143_chef_nn	4.0	 	annotator4
+57_chef_nn	4.0	 	annotator4
+163_chef_nn	4.0	 	annotator4
+91_chef_nn	4.0	 	annotator4
+137_chef_nn	4.0	 	annotator4
+49_chef_nn	4.0	 	annotator4
+164_chef_nn	4.0	 	annotator4
+165_chef_nn	4.0	 	annotator4
+166_chef_nn	1.0	 	annotator4
+5_chef_nn	4.0	 	annotator4
+167_chef_nn	2.0	 	annotator4
+126_chef_nn	2.0	 	annotator4
+79_chef_nn	2.0	 	annotator4
+168_chef_nn	4.0	 	annotator4
+169_chef_nn	4.0	 	annotator4
+170_chef_nn	4.0	 	annotator4
+127_chef_nn	2.0	 	annotator4
+171_chef_nn	4.0	 	annotator4
+100_chef_nn	4.0	 	annotator4
+172_chef_nn	4.0	 	annotator4
+173_chef_nn	4.0	 	annotator4
+174_chef_nn	4.0	 	annotator4
+175_chef_nn	4.0	 	annotator4
+176_chef_nn	4.0	 	annotator4
+177_chef_nn	4.0	 	annotator4
+141_chef_nn	2.0	 	annotator4
+92_chef_nn	1.0	 	annotator4
+119_chef_nn	2.0	 	annotator4
+178_chef_nn	2.0	 	annotator4
+179_chef_nn	4.0	 	annotator4
+180_chef_nn	4.0	 	annotator4
+181_chef_nn	4.0	 	annotator4
+107_chef_nn	4.0	 	annotator4
+182_chef_nn	2.0	 	annotator4
+154_chef_nn	4.0	 	annotator4
+88_chef_nn	4.0	 	annotator4
+131_chef_nn	4.0	 	annotator4
+183_chef_nn	4.0	 	annotator4
+184_chef_nn	4.0	 	annotator4
+185_chef_nn	2.0	 	annotator4
+186_chef_nn	4.0	 	annotator4
+145_chef_nn	2.0	 	annotator4
+104_chef_nn	4.0	 	annotator4
+187_chef_nn	4.0	 	annotator4
+53_chef_nn	2.0	 	annotator4
+188_chef_nn	4.0	 	annotator4
+52_chef_nn	1.0	 	annotator4
+84_chef_nn	4.0	 	annotator4
+189_chef_nn	2.0	 	annotator4
+190_chef_nn	4.0	 	annotator4
+191_chef_nn	2.0	 	annotator4
+83_chef_nn	2.0	 	annotator4
+135_chef_nn	4.0	 	annotator4
+105_chef_nn	4.0	 	annotator4
+132_chef_nn	2.0	 	annotator4
+134_chef_nn	4.0	 	annotator4
+192_chef_nn	4.0	 	annotator0
+67_chef_nn	4.0	 	annotator0
+28_chef_nn	-	Unsure; while “chef d'oeuvres” is used in English, I believe it's still generally considered French and not English	annotator0
+105_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+193_chef_nn	-	UNK; “chef d'escadron” is French	annotator0
+133_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 1	annotator0
+128_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+160_chef_nn	4.0	 	annotator0
+183_chef_nn	4.0	 	annotator0
+49_chef_nn	4.0	 	annotator0
+63_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+169_chef_nn	4.0	 	annotator0
+75_chef_nn	-	Unsure; while “chef d'oeuvres” is used in English, I believe it's still generally considered French and not English	annotator0
+156_chef_nn	1.0	 	annotator0
+163_chef_nn	4.0	 	annotator0
+194_chef_nn	4.0	 	annotator0
+195_chef_nn	4.0	 	annotator0
+141_chef_nn	1.0	Unsure	annotator0
+179_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+92_chef_nn	-	Unsure; while “chef d'oeuvres” is used in English, I believe it's still generally considered French and not English	annotator0
+103_chef_nn	4.0	 	annotator0
+73_chef_nn	-	I believe the use of chef in sentence 1 is purely French	annotator0
+137_chef_nn	4.0	 	annotator0
+196_chef_nn	4.0	 	annotator0
+197_chef_nn	4.0	 	annotator0
+149_chef_nn	4.0	 	annotator0
+139_chef_nn	-	 	annotator0
+153_chef_nn	-	UNK; I think “chef d'oeuvre” is still generally considered French rather than English	annotator0
+131_chef_nn	4.0	 	annotator0
+175_chef_nn	4.0	 	annotator0
+59_chef_nn	4.0	 	annotator0
+121_chef_nn	4.0	 	annotator0
+198_chef_nn	-	 	annotator0
+199_chef_nn	4.0	 	annotator0
+200_chef_nn	4.0	 	annotator0
+166_chef_nn	-	I think “chef d'oevre” is still generally considered French and not English	annotator0
+113_chef_nn	4.0	 	annotator0
+201_chef_nn	-	I think “chef d'oevre” is still generally considered French and not English	annotator0
+112_chef_nn	4.0	 	annotator0
+130_chef_nn	4.0	 	annotator0
+202_chef_nn	4.0	 	annotator0
+48_chef_nn	4.0	 	annotator0
+120_chef_nn	4.0	 	annotator0
+173_chef_nn	4.0	 	annotator0
+178_chef_nn	-	UNK; “chef de bataillon” is French	annotator0
+148_chef_nn	4.0	 	annotator0
+188_chef_nn	-	I think “decrotteur en chef” is French and not English	annotator0
+55_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	annotator0
+116_chef_nn	4.0	 	annotator0
+203_chef_nn	-	 	annotator0
+204_chef_nn	4.0	 	annotator0
+117_chef_nn	4.0	 	annotator0
+86_chef_nn	4.0	 	annotator0
+143_chef_nn	4.0	 	annotator0
+205_chef_nn	-	I believe “chef d'oeuvre” is still considered French and not English	annotator0
+172_chef_nn	4.0	 	annotator0
+206_chef_nn	-	I believe “chef des bohemiens” is still considered French and not English	annotator0
+95_chef_nn	4.0	 	annotator0
+123_chef_nn	4.0	 	annotator0
+187_chef_nn	4.0	 	annotator0
+76_chef_nn	4.0	 	annotator0
+85_chef_nn	4.0	 	annotator0
+155_chef_nn	-	NOTE: sentence 2 is French	annotator0
+74_chef_nn	4.0	 	annotator0
+104_chef_nn	4.0	 	annotator0
+164_chef_nn	4.0	 	annotator0
+140_chef_nn	-	I believe “chef d'oeuvre” is still considered French and not English	annotator0
+126_chef_nn	-	I believe “chef d'escadron” is considered French and not English	annotator0
+119_chef_nn	-	 	annotator0
+65_chef_nn	4.0	 	annotator0
+97_chef_nn	4.0	 	annotator0
+115_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 1	annotator0
+28_chef_nn	1.0	 	annotator2
+207_chef_nn	1.0	 	annotator2
+41_chef_nn	1.0	 	annotator2
+208_chef_nn	4.0	 	annotator2
+209_chef_nn	1.0	 	annotator2
+210_chef_nn	1.0	 	annotator2
+211_chef_nn	1.0	 	annotator2
+212_chef_nn	1.0	 	annotator2
+213_chef_nn	4.0	 	annotator2
+214_chef_nn	4.0	 	annotator2
+215_chef_nn	1.0	 	annotator2
+216_chef_nn	4.0	 	annotator8
+46_chef_nn	-	S1 is part of a proper noun/place name	annotator8
+90_chef_nn	2.0	S2 is part of a set French phrase meaning the “epitome” but both chefs are the same meaning of “chief” as in principal; just as S1's chef is the leader in the kitchen, there is some relation	annotator8
+217_chef_nn	-	 	annotator8
+218_chef_nn	4.0	 	annotator8
+219_chef_nn	2.0	 	annotator8
+220_chef_nn	2.0	 	annotator8
+30_chef_nn	2.0	 	annotator8
+221_chef_nn	4.0	 	annotator8
+222_chef_nn	2.0	 	annotator8
+223_chef_nn	4.0	 	annotator8
+224_chef_nn	2.0	 	annotator8
+225_chef_nn	4.0	 	annotator6
+226_chef_nn	2.0	 	annotator6
+227_chef_nn	2.0	 	annotator6
+228_chef_nn	4.0	 	annotator6
+229_chef_nn	4.0	 	annotator6
+230_chef_nn	4.0	 	annotator6
+231_chef_nn	4.0	 	annotator6
+232_chef_nn	4.0	 	annotator6
+233_chef_nn	2.0	 	annotator6
+234_chef_nn	4.0	 	annotator6
+235_chef_nn	4.0	 	annotator6
+236_chef_nn	3.0	 	annotator6
+237_chef_nn	4.0	 	annotator5
+238_chef_nn	4.0	 	annotator5
+239_chef_nn	2.0	 	annotator5
+240_chef_nn	4.0	 	annotator5
+241_chef_nn	4.0	 	annotator5
+242_chef_nn	-	foreign language	annotator5
+243_chef_nn	3.0	 	annotator5
+244_chef_nn	4.0	 	annotator5
+245_chef_nn	4.0	 	annotator5
+246_chef_nn	-	I think both of these usages are French	annotator0
+247_chef_nn	-	I think the usage in sentence 2 is French	annotator0
+77_chef_nn	4.0	 	annotator0
+5_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+248_chef_nn	-	I think both of these usages are French	annotator0
+249_chef_nn	-	I think both of these usages are French	annotator0
+250_chef_nn	-	I think both of these usages are French	annotator0
+251_chef_nn	-	I think both of these usages are French	annotator0
+252_chef_nn	-	I think both of these usages are French	annotator0
+253_chef_nn	4.0	Unsure; difficult to judge the meaning in sentence 2	annotator0
+254_chef_nn	1.0	 	annotator2
+255_chef_nn	1.0	 	annotator2
+256_chef_nn	4.0	 	annotator2
+257_chef_nn	4.0	 	annotator2
+258_chef_nn	4.0	 	annotator2
+259_chef_nn	4.0	 	annotator2
+260_chef_nn	1.0	 	annotator2
+261_chef_nn	1.0	 	annotator2
+262_chef_nn	1.0	 	annotator2
+263_chef_nn	4.0	 	annotator2
+264_chef_nn	4.0	 	annotator2
+265_chef_nn	1.0	 	annotator2
+266_chef_nn	4.0	 	annotator2
+267_chef_nn	1.0	 	annotator2
+268_chef_nn	2.0	 	annotator2
+269_chef_nn	4.0	 	annotator2
+270_chef_nn	4.0	 	annotator1
+261_chef_nn	1.0	 	annotator1
+271_chef_nn	3.0	 	annotator1
+272_chef_nn	3.0	 	annotator1
+262_chef_nn	1.0	 	annotator1
+273_chef_nn	4.0	 	annotator1
+274_chef_nn	4.0	 	annotator1
+275_chef_nn	-	I am unsure of the meaning of sentence 2	annotator3
+265_chef_nn	2.0	 	annotator3
+79_chef_nn	4.0	 	annotator3
+276_chef_nn	3.0	 	annotator3
+270_chef_nn	4.0	 	annotator3
+268_chef_nn	4.0	 	annotator3
+264_chef_nn	4.0	 	annotator3
+277_chef_nn	4.0	 	annotator3
+278_chef_nn	4.0	 	annotator3
+274_chef_nn	4.0	 	annotator3
+256_chef_nn	4.0	 	annotator3
+279_chef_nn	4.0	 	annotator3
+280_chef_nn	4.0	 	annotator3
+281_chef_nn	4.0	 	annotator3
+255_chef_nn	4.0	 	annotator3
+282_chef_nn	4.0	 	annotator3
+264_chef_nn	4.0	 	annotator0
+255_chef_nn	4.0	Unsure; sentence 2 doesn't really provide enough context	annotator0
+260_chef_nn	1.0	Unsure; chef de brigade is French so should this be 0?	annotator0
+266_chef_nn	4.0	 	annotator0
+283_chef_nn	4.0	Unsure; the context in sentence 2 is unclear	annotator0
+284_chef_nn	4.0	Unsure	annotator0
+282_chef_nn	4.0	 	annotator0
+79_chef_nn	1.0	Unsure; chef de brigade is French so should this be 0?	annotator0
+279_chef_nn	4.0	 	annotator0
+274_chef_nn	4.0	 	annotator0
+272_chef_nn	4.0	 	annotator0
+269_chef_nn	4.0	 	annotator0
+261_chef_nn	1.0	 	annotator0
+268_chef_nn	-	Unsure; chef de brigade is French so should this be 0?	annotator0
+285_chef_nn	4.0	 	annotator0
+286_chef_nn	4.0	 	annotator0
+287_chef_nn	4.0	 	annotator0
+288_chef_nn	1.0	 	annotator0
+289_chef_nn	4.0	 	annotator0
+290_chef_nn	4.0	 	annotator0
+291_chef_nn	4.0	 	annotator0
+292_chef_nn	1.0	 	annotator0
+293_chef_nn	1.0	 	annotator0
+294_chef_nn	4.0	 	annotator0
+295_chef_nn	4.0	 	annotator0
+296_chef_nn	1.0	 	annotator0
+297_chef_nn	4.0	 	annotator0
+298_chef_nn	1.0	 	annotator0
+299_chef_nn	1.0	 	annotator0
+300_chef_nn	4.0	 	annotator0
+301_chef_nn	4.0	 	annotator0
+302_chef_nn	4.0	 	annotator0
+303_chef_nn	1.0	 	annotator0
+304_chef_nn	1.0	 	annotator0
+305_chef_nn	1.0	 	annotator0
+306_chef_nn	4.0	French	annotator0
+307_chef_nn	4.0	 	annotator0
+308_chef_nn	1.0	 	annotator0
+309_chef_nn	1.0	French	annotator0
+310_chef_nn	1.0	 	annotator0
+311_chef_nn	1.0	 	annotator0
+312_chef_nn	4.0	 	annotator0
+313_chef_nn	1.0	 	annotator0
+314_chef_nn	1.0	 	annotator0
+315_chef_nn	4.0	 	annotator0
+316_chef_nn	4.0	 	annotator0
+317_chef_nn	1.0	 	annotator0
+318_chef_nn	1.0	 	annotator0
+319_chef_nn	1.0	 	annotator0
+320_chef_nn	1.0	 	annotator0
+321_chef_nn	4.0	 	annotator0
+322_chef_nn	4.0	 	annotator0
+306_chef_nn	4.0	This is not an English word, it is French.	annotator8
+323_chef_nn	4.0	“Chef” is really only English in the cooking sense. I do not agree that this should be part of the corpus.	annotator8
+324_chef_nn	4.0	 	annotator8
+325_chef_nn	4.0	 	annotator8
+326_chef_nn	4.0	 	annotator8
+327_chef_nn	4.0	 	annotator8
+328_chef_nn	1.0	 	annotator8
+316_chef_nn	4.0	 	annotator8
+329_chef_nn	1.0	 	annotator8
+330_chef_nn	4.0	 	annotator8
+331_chef_nn	4.0	 	annotator8
+310_chef_nn	1.0	 	annotator8
+332_chef_nn	4.0	 	annotator8
+333_chef_nn	4.0	 	annotator8
+334_chef_nn	1.0	 	annotator8
+335_chef_nn	1.0	 	annotator8
+336_chef_nn	4.0	 	annotator8
+337_chef_nn	4.0	 	annotator8
+297_chef_nn	4.0	 	annotator8
+308_chef_nn	1.0	 	annotator8
+338_chef_nn	1.0	 	annotator8
+294_chef_nn	4.0	 	annotator8
+339_chef_nn	4.0	 	annotator8
+320_chef_nn	4.0	This isn’t really English.	annotator8
+340_chef_nn	4.0	 	annotator8
+341_chef_nn	4.0	 	annotator8
+342_chef_nn	4.0	 	annotator8
+343_chef_nn	4.0	 	annotator8
+344_chef_nn	4.0	 	annotator8
+345_chef_nn	4.0	 	annotator8
+317_chef_nn	1.0	 	annotator8
+346_chef_nn	4.0	 	annotator8
+290_chef_nn	4.0	 	annotator8
+347_chef_nn	1.0	 	annotator8
+348_chef_nn	4.0	 	annotator8
+349_chef_nn	1.0	 	annotator8
+350_chef_nn	1.0	 	annotator9
+316_chef_nn	4.0	 	annotator9
+351_chef_nn	4.0	 	annotator9
+339_chef_nn	4.0	 	annotator9
+352_chef_nn	1.0	 	annotator9
+318_chef_nn	1.0	 	annotator9
+346_chef_nn	4.0	 	annotator9
+353_chef_nn	1.0	 	annotator9
+354_chef_nn	3.0	 	annotator9
+355_chef_nn	4.0	 	annotator9
+356_chef_nn	4.0	 	annotator9
+357_chef_nn	1.0	 	annotator9
+330_chef_nn	4.0	 	annotator9
+287_chef_nn	4.0	 	annotator9
+358_chef_nn	1.0	 	annotator9
+359_chef_nn	1.0	 	annotator9
+360_chef_nn	2.0	 	annotator9
+337_chef_nn	4.0	 	annotator9
+306_chef_nn	4.0	 	annotator9
+361_chef_nn	1.0	 	annotator9
+362_chef_nn	4.0	 	annotator9
+310_chef_nn	1.0	 	annotator9
+288_chef_nn	1.0	 	annotator9
+363_chef_nn	1.0	 	annotator9
+364_chef_nn	1.0	 	annotator9
+10_chef_nn	4.0	 	annotator9
+290_chef_nn	4.0	 	annotator9
+365_chef_nn	4.0	 	annotator9
+299_chef_nn	4.0	 	annotator9
+366_chef_nn	1.0	 	annotator9
+367_chef_nn	1.0	 	annotator9
+341_chef_nn	4.0	 	annotator9
+368_chef_nn	1.0	 	annotator9
+369_chef_nn	4.0	 	annotator9
+292_chef_nn	1.0	 	annotator9
+293_chef_nn	1.0	 	annotator9
