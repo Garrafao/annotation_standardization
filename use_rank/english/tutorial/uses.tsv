@@ -1,0 +1,9 @@
+dataID	context	indices_target_token	indices_target_sentence	lemma
+nf_1830_747561.txt-644-9	Provide a large table; this is a horizontal plane, and will represent the ground plane, viz.	44:49	0:92	plane_nn
+nf_1853_747976.txt-1558-16	Moulding planes are used for sticking mouldings, as the operation of forming mouldings with the plane is called.	96:101	0:112	plane_nn
+fic_1853_9040.txt-3170-14	She was amiable and good in all ways; the everlasting smile on her face did not belie her heart.	67:71	0:96	face_nn
+news_2004_617201.txt-34-2	In the face of such statistics, researchers are exploring which children seem to survive -- even thrive -- after a divorce.	7:11	0:123	face_nn
+fic_1850_7304.txt-2042-5	"Le Genr is at the head of a faction which is conspiring against you. """	18:22	0:70	head_nn
+fic_2002_31370.txt-91-14	She'd given him that mark, slammed a jug of whisky over his head.	60:64	0:65	head_nn
+fic_1998_43802.txt-21-18	As she wrapped the tubes in a laboratory requisition form and tucked the little package into a plastic bag, Judy resolved to come back and give Beatrice's hair a full one hundred strokes of brushing.	103:106	0:199	bag_nn
+fic_1979_16368.txt-854-10	Separated from the rest of the cleaning articles and trash bag, we SEE a bag full of Dianne's discards -- a long skirt, boots, scarf and poncho.	59:62	0:144	bag_nn

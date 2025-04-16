@@ -1,0 +1,39 @@
+senseID	definition	lemma
+coach%1:06:00::	a carriage pulled by four horses with one driver	coach.n
+coach%1:06:01::	a railcar where passengers ride	coach.n
+coach%1:06:02::	a vehicle carrying many passengers; used for public transport	coach.n
+coach%1:18:00::	a person who gives private instruction (as in singing, acting, etc.)	coach.n
+coach%1:18:01::	(sports) someone in charge of training an athlete or a team	coach.n
+fix%2:29:00::	make infertile	fix.v
+fix%2:30:00::	make fixed, stable or stationary	fix.v
+fix%2:30:01::	restore by replacing a part or putting together what is torn or broken	fix.v
+fix%2:30:02::	kill, preserve, and harden (tissue) in order to prepare for microscopic study	fix.v
+fix%2:30:03::	make ready or suitable or equip in advance for a particular purpose or for some use, event, etc	fix.v
+fix%2:32:03::	decide upon or fix definitely	fix.v
+fix%2:33:00::	take vengeance on or get even	fix.v
+fix%2:35:00::	cause to be firmly attached	fix.v
+fix%2:35:01::	put (something somewhere) firmly	fix.v
+fix%2:36:00::	prepare for eating by applying heat	fix.v
+fix%2:36:01::	set or place definitely	fix.v
+fix%2:41:04::	influence an event or its outcome by illegal means	fix.v
+neat%5:00:00:adroit:00	free from clumsiness; precisely or deftly executed	neat.a
+neat%5:00:00:elegant:00	free from what is tawdry or unbecoming	neat.a
+neat%5:00:00:good:01	very good	neat.a
+neat%5:00:00:tidy:00	clean or organized	neat.a
+neat%5:00:00:undiluted:00	without water	neat.a
+neat%5:00:03:tidy:00	showing care in execution	neat.a
+rich%3:00:00::	possessing material wealth	rich.a
+rich%3:00:02::	having an abundant supply of desirable qualities or substances (especially natural resources)	rich.a
+rich%3:00:03::	suggestive of or characterized by great expense	rich.a
+rich%3:00:04::	high in mineral content; having a high proportion of fuel to air; ,	rich.a
+rich%5:00:00:abundant:00	affording an abundant supply	rich.a
+rich%5:00:00:colorful:00	strong; intense	rich.a
+rich%5:00:00:fruitful:00	marked by great fruitfulness	rich.a
+rich%5:00:00:full:01	pleasantly full and mellow	rich.a
+rich%5:00:00:tasty:00	marked by richness and fullness of flavor	rich.a
+rich%5:00:00:unwholesome:00	containing plenty of fat, or eggs, or sugar	rich.a
+rich%5:00:00:valuable:00	of great worth or quality	rich.a
+rich%5:00:02:productive:00	very productive	rich.a
+severely%4:02:01::	to a severe or serious degree	severely.r
+severely%4:02:02::	with sternness; in a severe manner	severely.r
+severely%4:02:03::	causing great damage or hardship	severely.r

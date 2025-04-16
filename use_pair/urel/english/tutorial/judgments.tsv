@@ -1,0 +1,16 @@
+instanceID	label	comment	annotator
+0	4		gold_annotator
+1	3		gold_annotator
+2	4		gold_annotator
+3	1		gold_annotator
+4	2		gold_annotator
+5	4		gold_annotator
+6	3		gold_annotator
+7	4		gold_annotator
+8	2		gold_annotator
+9	4		gold_annotator
+10	1		gold_annotator
+11	2		gold_annotator
+12	1		gold_annotator
+13	-		gold_annotator
+14	-	The target word should be 'band'.	gold_annotator

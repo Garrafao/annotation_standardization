@@ -1,0 +1,601 @@
+instanceID	label	comment	annotator
+sense0,moltke_zustaende_1841-3780-9	0	-	annotatorA
+sense1,moltke_zustaende_1841-3780-9	1	-	annotatorA
+sense2,moltke_zustaende_1841-3780-9	0	-	annotatorA
+sense3,moltke_zustaende_1841-3780-9	0	-	annotatorA
+sense0,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorA
+sense1,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorA
+sense2,26120215_1987_12_31_01_267.tcf.xml-6-11	1	-	annotatorA
+sense3,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorA
+sense0,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorA
+sense1,blumenbach_naturgeschichte_1825-5793-5	1	-	annotatorA
+sense2,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorA
+sense3,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorA
+sense0,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorA
+sense1,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorA
+sense2,26120215_1986_07_31_01_078.tcf.xml-8-3	1	-	annotatorA
+sense3,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorA
+sense0,brehm_thierleben06_1869-9905-3	0	-	annotatorA
+sense1,brehm_thierleben06_1869-9905-3	1	-	annotatorA
+sense2,brehm_thierleben06_1869-9905-3	0	-	annotatorA
+sense3,brehm_thierleben06_1869-9905-3	0	-	annotatorA
+sense0,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorA
+sense1,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorA
+sense2,2532889X_1990-05-29_01_086.tcf.xml-10-3	1	-	annotatorA
+sense3,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorA
+sense0,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorA
+sense1,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorA
+sense2,26120215_1974_09_29_01_351.tcf.xml-4-16	1	-	annotatorA
+sense3,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorA
+sense0,brehm_thierleben06_1869-25551-19	0	-	annotatorA
+sense1,brehm_thierleben06_1869-25551-19	1	-	annotatorA
+sense2,brehm_thierleben06_1869-25551-19	0	-	annotatorA
+sense3,brehm_thierleben06_1869-25551-19	0	-	annotatorA
+sense0,26120215_1974_11_02_01_287.tcf.xml-18-1	-	fehlender Kontext	annotatorA
+sense1,26120215_1974_11_02_01_287.tcf.xml-18-1	-	fehlender Kontext	annotatorA
+sense2,26120215_1974_11_02_01_287.tcf.xml-18-1	-	fehlender Kontext	annotatorA
+sense3,26120215_1974_11_02_01_287.tcf.xml-18-1	-	fehlender Kontext	annotatorA
+sense0,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorA
+sense1,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorA
+sense2,26120215_1987_08_18_01_335.tcf.xml-12-11	1	-	annotatorA
+sense3,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorA
+sense0,blumenbach_naturgeschichte_1815-5519-5	-	siehe oben	annotatorA
+sense1,blumenbach_naturgeschichte_1815-5519-5	-	siehe oben	annotatorA
+sense2,blumenbach_naturgeschichte_1815-5519-5	-	siehe oben	annotatorA
+sense3,blumenbach_naturgeschichte_1815-5519-5	-	siehe oben	annotatorA
+sense0,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorA
+sense1,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorA
+sense2,2532889X_1988-12-27_01_066.tcf.xml-17-1	1	-	annotatorA
+sense3,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorA
+sense0,vogt_briefe01_1851-7235-1	0	-	annotatorA
+sense1,vogt_briefe01_1851-7235-1	1	-	annotatorA
+sense2,vogt_briefe01_1851-7235-1	0	-	annotatorA
+sense3,vogt_briefe01_1851-7235-1	0	-	annotatorA
+sense0,blumenbach_naturgeschichte_1803-5233-5	-	siehe oben	annotatorA
+sense1,blumenbach_naturgeschichte_1803-5233-5	-	siehe oben	annotatorA
+sense2,blumenbach_naturgeschichte_1803-5233-5	-	siehe oben	annotatorA
+sense3,blumenbach_naturgeschichte_1803-5233-5	-	siehe oben	annotatorA
+sense0,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorA
+sense1,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorA
+sense2,26120215_1982_04_30_01_337.tcf.xml-1-32	1	-	annotatorA
+sense3,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorA
+sense0,brehm_thierleben06_1869-9898-7	0	-	annotatorA
+sense1,brehm_thierleben06_1869-9898-7	1	-	annotatorA
+sense2,brehm_thierleben06_1869-9898-7	0	-	annotatorA
+sense3,brehm_thierleben06_1869-9898-7	0	-	annotatorA
+sense0,boelsche_liebesleben01_1898-6183-7	0	-	annotatorA
+sense1,boelsche_liebesleben01_1898-6183-7	1	-	annotatorA
+sense2,boelsche_liebesleben01_1898-6183-7	0	-	annotatorA
+sense3,boelsche_liebesleben01_1898-6183-7	0	-	annotatorA
+sense0,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorA
+sense1,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorA
+sense2,2532889X_1985-11-21_01_061.tcf.xml-19-29	1	-	annotatorA
+sense3,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorA
+sense0,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorA
+sense1,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorA
+sense2,26120215_1984_05_02_01_053.tcf.xml-34-24	1	-	annotatorA
+sense3,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorA
+sense0,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorA
+sense1,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorA
+sense2,2532889X_1972-09-07_01_053.tcf.xml-21-5	1	-	annotatorA
+sense3,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorA
+sense0,26120215_1982_03_20_01_085.tcf.xml-11-18	-	Präferenz für Sense 3 aber folgender Kontext könnte den Sense noch verändern	annotatorA
+sense1,26120215_1982_03_20_01_085.tcf.xml-11-18	-	Präferenz für Sense 3 aber folgender Kontext könnte den Sense noch verändern	annotatorA
+sense2,26120215_1982_03_20_01_085.tcf.xml-11-18	-	Präferenz für Sense 3 aber folgender Kontext könnte den Sense noch verändern	annotatorA
+sense3,26120215_1982_03_20_01_085.tcf.xml-11-18	-	Präferenz für Sense 3 aber folgender Kontext könnte den Sense noch verändern	annotatorA
+sense0,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorA
+sense1,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorA
+sense2,2532889X_1988-01-05_01_062.tcf.xml-14-25	1	-	annotatorA
+sense3,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorA
+sense0,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorA
+sense1,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorA
+sense2,26120215_1990_02_22_01_082.tcf.xml-25-18	1	-	annotatorA
+sense3,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorA
+sense0,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorA
+sense1,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorA
+sense2,2532889X_1977-12-20_01_057.tcf.xml-4-29	1	-	annotatorA
+sense3,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorA
+sense0,blumenbach_anatomie_1815-1035-1	0	-	annotatorA
+sense1,blumenbach_anatomie_1815-1035-1	1	-	annotatorA
+sense2,blumenbach_anatomie_1815-1035-1	0	-	annotatorA
+sense3,blumenbach_anatomie_1815-1035-1	0	-	annotatorA
+sense0,brehm_thierleben06_1869-25551-10	-	siehe oben	annotatorA
+sense1,brehm_thierleben06_1869-25551-10	-	siehe oben	annotatorA
+sense2,brehm_thierleben06_1869-25551-10	-	siehe oben	annotatorA
+sense3,brehm_thierleben06_1869-25551-10	-	siehe oben	annotatorA
+sense0,vogt_briefe01_1851-6563-3	0	-	annotatorA
+sense1,vogt_briefe01_1851-6563-3	1	-	annotatorA
+sense2,vogt_briefe01_1851-6563-3	0	-	annotatorA
+sense3,vogt_briefe01_1851-6563-3	0	-	annotatorA
+sense0,brehm_thierleben06_1869-9880-11	0	-	annotatorA
+sense1,brehm_thierleben06_1869-9880-11	1	-	annotatorA
+sense2,brehm_thierleben06_1869-9880-11	0	-	annotatorA
+sense3,brehm_thierleben06_1869-9880-11	0	-	annotatorA
+sense0,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorA
+sense1,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorA
+sense2,2532889X_1986-07-29_01_081.tcf.xml-6-12	1	-	annotatorA
+sense3,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorA
+sense0,paul_titan01_1800-265-59	0	-	annotatorA
+sense1,paul_titan01_1800-265-59	1	-	annotatorA
+sense2,paul_titan01_1800-265-59	0	-	annotatorA
+sense3,paul_titan01_1800-265-59	0	-	annotatorA
+sense0,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorA
+sense1,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorA
+sense2,26120215_1982_09_25_01_107.tcf.xml-45-3	1	-	annotatorA
+sense3,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorA
+sense0,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorA
+sense1,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorA
+sense2,2532889X_1973-02-03_01_347.tcf.xml-11-30	1	-	annotatorA
+sense3,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorA
+sense0,blumenbach_naturgeschichte_1821-5626-5	-	siehe oben	annotatorA
+sense1,blumenbach_naturgeschichte_1821-5626-5	-	siehe oben	annotatorA
+sense2,blumenbach_naturgeschichte_1821-5626-5	-	siehe oben	annotatorA
+sense3,blumenbach_naturgeschichte_1821-5626-5	-	siehe oben	annotatorA
+sense0,vogt_briefe02_1851-7019-780	-	unklar	annotatorA
+sense1,vogt_briefe02_1851-7019-780	-	unklar	annotatorA
+sense2,vogt_briefe02_1851-7019-780	-	unklar	annotatorA
+sense3,vogt_briefe02_1851-7019-780	-	unklar	annotatorA
+sense0,26120215_1983_04_14_01_329.tcf.xml-23-76	-	 	annotatorA
+sense1,26120215_1983_04_14_01_329.tcf.xml-23-76	-	 	annotatorA
+sense2,26120215_1983_04_14_01_329.tcf.xml-23-76	-	 	annotatorA
+sense3,26120215_1983_04_14_01_329.tcf.xml-23-76	-	 	annotatorA
+sense0,blumenbach_naturgeschichte_1832-6008-5	-	siehe oben	annotatorA
+sense1,blumenbach_naturgeschichte_1832-6008-5	-	siehe oben	annotatorA
+sense2,blumenbach_naturgeschichte_1832-6008-5	-	siehe oben	annotatorA
+sense3,blumenbach_naturgeschichte_1832-6008-5	-	siehe oben	annotatorA
+sense0,druskowitz_religionsersatz_1886-614-18	0	-	annotatorA
+sense1,druskowitz_religionsersatz_1886-614-18	1	-	annotatorA
+sense2,druskowitz_religionsersatz_1886-614-18	0	-	annotatorA
+sense3,druskowitz_religionsersatz_1886-614-18	0	-	annotatorA
+sense0,brehm_thierleben06_1869-9873-5	0	-	annotatorA
+sense1,brehm_thierleben06_1869-9873-5	1	-	annotatorA
+sense2,brehm_thierleben06_1869-9873-5	0	-	annotatorA
+sense3,brehm_thierleben06_1869-9873-5	0	-	annotatorA
+sense0,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorA
+sense1,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorA
+sense2,2532889X_1969-02-18_01_092.tcf.xml-39-11	1	-	annotatorA
+sense3,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorA
+sense0,brehm_thierleben06_1869-25551-1	-	siehe oben	annotatorA
+sense1,brehm_thierleben06_1869-25551-1	-	siehe oben	annotatorA
+sense2,brehm_thierleben06_1869-25551-1	-	siehe oben	annotatorA
+sense3,brehm_thierleben06_1869-25551-1	-	siehe oben	annotatorA
+sense0,brehm_thierleben06_1869-9854-2	0	-	annotatorA
+sense1,brehm_thierleben06_1869-9854-2	1	-	annotatorA
+sense2,brehm_thierleben06_1869-9854-2	0	-	annotatorA
+sense3,brehm_thierleben06_1869-9854-2	0	-	annotatorA
+sense0,blumenbach_naturgeschichte_1814-5476-5	-	siehe oben	annotatorA
+sense1,blumenbach_naturgeschichte_1814-5476-5	-	siehe oben	annotatorA
+sense2,blumenbach_naturgeschichte_1814-5476-5	-	siehe oben	annotatorA
+sense3,blumenbach_naturgeschichte_1814-5476-5	-	siehe oben	annotatorA
+sense0,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	vermutlich Sense 3 aber würde ich ungern klassifizieren	annotatorA
+sense1,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	vermutlich Sense 3 aber würde ich ungern klassifizieren	annotatorA
+sense2,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	vermutlich Sense 3 aber würde ich ungern klassifizieren	annotatorA
+sense3,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	vermutlich Sense 3 aber würde ich ungern klassifizieren	annotatorA
+sense0,carus_zoologie_1872-6097-29	0	-	annotatorA
+sense1,carus_zoologie_1872-6097-29	1	-	annotatorA
+sense2,carus_zoologie_1872-6097-29	0	-	annotatorA
+sense3,carus_zoologie_1872-6097-29	0	-	annotatorA
+sense0,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorA
+sense1,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorA
+sense2,2532889X_1971-05-11_01_158.tcf.xml-9-6	1	-	annotatorA
+sense3,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorA
+sense0,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorA
+sense1,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorA
+sense2,2532889X_1984-10-26_01_061.tcf.xml-18-2	1	-	annotatorA
+sense3,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorA
+sense0,blumenbach_anatomie_1805-990-1	-	siehe oben	annotatorA
+sense1,blumenbach_anatomie_1805-990-1	-	siehe oben	annotatorA
+sense2,blumenbach_anatomie_1805-990-1	-	siehe oben	annotatorA
+sense3,blumenbach_anatomie_1805-990-1	-	siehe oben	annotatorA
+sense0,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorA
+sense1,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorA
+sense2,2532889X_1989-09-08_01_107.tcf.xml-23-23	1	-	annotatorA
+sense3,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorA
+sense0,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorA
+sense1,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorA
+sense2,26120215_1981_12_22_01_078.tcf.xml-14-17	1	-	annotatorA
+sense3,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorA
+sense0,brehm_thierleben06_1869-8065-76	0	-	annotatorA
+sense1,brehm_thierleben06_1869-8065-76	1	-	annotatorA
+sense2,brehm_thierleben06_1869-8065-76	0	-	annotatorA
+sense3,brehm_thierleben06_1869-8065-76	0	-	annotatorA
+sense0,moltke_zustaende_1841-3780-9	0	-	annotatorB
+sense1,moltke_zustaende_1841-3780-9	1	-	annotatorB
+sense2,moltke_zustaende_1841-3780-9	0	-	annotatorB
+sense3,moltke_zustaende_1841-3780-9	0	-	annotatorB
+sense0,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorB
+sense1,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorB
+sense2,26120215_1987_12_31_01_267.tcf.xml-6-11	1	-	annotatorB
+sense3,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1825-5793-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorB
+sense0,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorB
+sense1,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorB
+sense2,26120215_1986_07_31_01_078.tcf.xml-8-3	1	-	annotatorB
+sense3,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorB
+sense0,brehm_thierleben06_1869-9905-3	0	-	annotatorB
+sense1,brehm_thierleben06_1869-9905-3	1	-	annotatorB
+sense2,brehm_thierleben06_1869-9905-3	0	-	annotatorB
+sense3,brehm_thierleben06_1869-9905-3	0	-	annotatorB
+sense0,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorB
+sense1,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorB
+sense2,2532889X_1990-05-29_01_086.tcf.xml-10-3	1	-	annotatorB
+sense3,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorB
+sense0,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorB
+sense1,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorB
+sense2,26120215_1974_09_29_01_351.tcf.xml-4-16	1	-	annotatorB
+sense3,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorB
+sense0,brehm_thierleben06_1869-25551-19	0	-	annotatorB
+sense1,brehm_thierleben06_1869-25551-19	1	-	annotatorB
+sense2,brehm_thierleben06_1869-25551-19	0	-	annotatorB
+sense3,brehm_thierleben06_1869-25551-19	0	-	annotatorB
+sense0,26120215_1974_11_02_01_287.tcf.xml-18-1	-	kein Kontext	annotatorB
+sense1,26120215_1974_11_02_01_287.tcf.xml-18-1	-	kein Kontext	annotatorB
+sense2,26120215_1974_11_02_01_287.tcf.xml-18-1	-	kein Kontext	annotatorB
+sense3,26120215_1974_11_02_01_287.tcf.xml-18-1	-	kein Kontext	annotatorB
+sense0,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorB
+sense1,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorB
+sense2,26120215_1987_08_18_01_335.tcf.xml-12-11	1	-	annotatorB
+sense3,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1815-5519-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorB
+sense0,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorB
+sense1,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorB
+sense2,2532889X_1988-12-27_01_066.tcf.xml-17-1	1	-	annotatorB
+sense3,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorB
+sense0,vogt_briefe01_1851-7235-1	0	-	annotatorB
+sense1,vogt_briefe01_1851-7235-1	1	-	annotatorB
+sense2,vogt_briefe01_1851-7235-1	0	-	annotatorB
+sense3,vogt_briefe01_1851-7235-1	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1803-5233-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorB
+sense0,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorB
+sense1,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorB
+sense2,26120215_1982_04_30_01_337.tcf.xml-1-32	1	-	annotatorB
+sense3,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorB
+sense0,brehm_thierleben06_1869-9898-7	0	-	annotatorB
+sense1,brehm_thierleben06_1869-9898-7	1	-	annotatorB
+sense2,brehm_thierleben06_1869-9898-7	0	-	annotatorB
+sense3,brehm_thierleben06_1869-9898-7	0	-	annotatorB
+sense0,boelsche_liebesleben01_1898-6183-7	0	-	annotatorB
+sense1,boelsche_liebesleben01_1898-6183-7	1	-	annotatorB
+sense2,boelsche_liebesleben01_1898-6183-7	0	-	annotatorB
+sense3,boelsche_liebesleben01_1898-6183-7	0	-	annotatorB
+sense0,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorB
+sense1,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorB
+sense2,2532889X_1985-11-21_01_061.tcf.xml-19-29	1	-	annotatorB
+sense3,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorB
+sense0,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorB
+sense1,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorB
+sense2,26120215_1984_05_02_01_053.tcf.xml-34-24	1	-	annotatorB
+sense3,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorB
+sense0,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorB
+sense1,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorB
+sense2,2532889X_1972-09-07_01_053.tcf.xml-21-5	1	-	annotatorB
+sense3,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorB
+sense0,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorB
+sense1,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorB
+sense2,26120215_1982_03_20_01_085.tcf.xml-11-18	1	-	annotatorB
+sense3,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorB
+sense0,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorB
+sense1,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorB
+sense2,2532889X_1988-01-05_01_062.tcf.xml-14-25	1	-	annotatorB
+sense3,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorB
+sense0,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorB
+sense1,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorB
+sense2,26120215_1990_02_22_01_082.tcf.xml-25-18	1	-	annotatorB
+sense3,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorB
+sense0,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorB
+sense1,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorB
+sense2,2532889X_1977-12-20_01_057.tcf.xml-4-29	1	-	annotatorB
+sense3,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorB
+sense0,blumenbach_anatomie_1815-1035-1	0	-	annotatorB
+sense1,blumenbach_anatomie_1815-1035-1	1	-	annotatorB
+sense2,blumenbach_anatomie_1815-1035-1	0	-	annotatorB
+sense3,blumenbach_anatomie_1815-1035-1	0	-	annotatorB
+sense0,brehm_thierleben06_1869-25551-10	0	-	annotatorB
+sense1,brehm_thierleben06_1869-25551-10	1	-	annotatorB
+sense2,brehm_thierleben06_1869-25551-10	0	-	annotatorB
+sense3,brehm_thierleben06_1869-25551-10	0	-	annotatorB
+sense0,vogt_briefe01_1851-6563-3	0	-	annotatorB
+sense1,vogt_briefe01_1851-6563-3	1	-	annotatorB
+sense2,vogt_briefe01_1851-6563-3	0	-	annotatorB
+sense3,vogt_briefe01_1851-6563-3	0	-	annotatorB
+sense0,brehm_thierleben06_1869-9880-11	0	-	annotatorB
+sense1,brehm_thierleben06_1869-9880-11	1	-	annotatorB
+sense2,brehm_thierleben06_1869-9880-11	0	-	annotatorB
+sense3,brehm_thierleben06_1869-9880-11	0	-	annotatorB
+sense0,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorB
+sense1,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorB
+sense2,2532889X_1986-07-29_01_081.tcf.xml-6-12	1	-	annotatorB
+sense3,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorB
+sense0,paul_titan01_1800-265-59	0	-	annotatorB
+sense1,paul_titan01_1800-265-59	1	-	annotatorB
+sense2,paul_titan01_1800-265-59	0	-	annotatorB
+sense3,paul_titan01_1800-265-59	0	-	annotatorB
+sense0,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorB
+sense1,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorB
+sense2,26120215_1982_09_25_01_107.tcf.xml-45-3	1	-	annotatorB
+sense3,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorB
+sense0,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorB
+sense1,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorB
+sense2,2532889X_1973-02-03_01_347.tcf.xml-11-30	1	-	annotatorB
+sense3,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1821-5626-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorB
+sense0,vogt_briefe02_1851-7019-780	0	-	annotatorB
+sense1,vogt_briefe02_1851-7019-780	1	-	annotatorB
+sense2,vogt_briefe02_1851-7019-780	0	-	annotatorB
+sense3,vogt_briefe02_1851-7019-780	0	-	annotatorB
+sense0,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorB
+sense1,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorB
+sense2,26120215_1983_04_14_01_329.tcf.xml-23-76	1	-	annotatorB
+sense3,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1832-6008-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorB
+sense0,druskowitz_religionsersatz_1886-614-18	0	-	annotatorB
+sense1,druskowitz_religionsersatz_1886-614-18	1	-	annotatorB
+sense2,druskowitz_religionsersatz_1886-614-18	0	-	annotatorB
+sense3,druskowitz_religionsersatz_1886-614-18	0	-	annotatorB
+sense0,brehm_thierleben06_1869-9873-5	0	-	annotatorB
+sense1,brehm_thierleben06_1869-9873-5	1	-	annotatorB
+sense2,brehm_thierleben06_1869-9873-5	0	-	annotatorB
+sense3,brehm_thierleben06_1869-9873-5	0	-	annotatorB
+sense0,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorB
+sense1,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorB
+sense2,2532889X_1969-02-18_01_092.tcf.xml-39-11	1	-	annotatorB
+sense3,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorB
+sense0,brehm_thierleben06_1869-25551-1	0	-	annotatorB
+sense1,brehm_thierleben06_1869-25551-1	1	-	annotatorB
+sense2,brehm_thierleben06_1869-25551-1	0	-	annotatorB
+sense3,brehm_thierleben06_1869-25551-1	0	-	annotatorB
+sense0,brehm_thierleben06_1869-9854-2	0	-	annotatorB
+sense1,brehm_thierleben06_1869-9854-2	1	-	annotatorB
+sense2,brehm_thierleben06_1869-9854-2	0	-	annotatorB
+sense3,brehm_thierleben06_1869-9854-2	0	-	annotatorB
+sense0,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorB
+sense1,blumenbach_naturgeschichte_1814-5476-5	1	-	annotatorB
+sense2,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorB
+sense3,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorB
+sense0,2532889X_1983-01-22_01_311.tcf.xml-29-1	0	-	annotatorB
+sense1,2532889X_1983-01-22_01_311.tcf.xml-29-1	0	-	annotatorB
+sense2,2532889X_1983-01-22_01_311.tcf.xml-29-1	1	-	annotatorB
+sense3,2532889X_1983-01-22_01_311.tcf.xml-29-1	0	-	annotatorB
+sense0,carus_zoologie_1872-6097-29	0	-	annotatorB
+sense1,carus_zoologie_1872-6097-29	1	-	annotatorB
+sense2,carus_zoologie_1872-6097-29	0	-	annotatorB
+sense3,carus_zoologie_1872-6097-29	0	-	annotatorB
+sense0,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorB
+sense1,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorB
+sense2,2532889X_1971-05-11_01_158.tcf.xml-9-6	1	-	annotatorB
+sense3,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorB
+sense0,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorB
+sense1,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorB
+sense2,2532889X_1984-10-26_01_061.tcf.xml-18-2	1	-	annotatorB
+sense3,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorB
+sense0,blumenbach_anatomie_1805-990-1	0	-	annotatorB
+sense1,blumenbach_anatomie_1805-990-1	1	-	annotatorB
+sense2,blumenbach_anatomie_1805-990-1	0	-	annotatorB
+sense3,blumenbach_anatomie_1805-990-1	0	-	annotatorB
+sense0,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorB
+sense1,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorB
+sense2,2532889X_1989-09-08_01_107.tcf.xml-23-23	1	-	annotatorB
+sense3,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorB
+sense0,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorB
+sense1,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorB
+sense2,26120215_1981_12_22_01_078.tcf.xml-14-17	1	-	annotatorB
+sense3,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorB
+sense0,brehm_thierleben06_1869-8065-76	0	-	annotatorB
+sense1,brehm_thierleben06_1869-8065-76	1	-	annotatorB
+sense2,brehm_thierleben06_1869-8065-76	0	-	annotatorB
+sense3,brehm_thierleben06_1869-8065-76	0	-	annotatorB
+sense0,moltke_zustaende_1841-3780-9	0	-	annotatorC
+sense1,moltke_zustaende_1841-3780-9	1	-	annotatorC
+sense2,moltke_zustaende_1841-3780-9	0	-	annotatorC
+sense3,moltke_zustaende_1841-3780-9	0	-	annotatorC
+sense0,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorC
+sense1,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorC
+sense2,26120215_1987_12_31_01_267.tcf.xml-6-11	1	-	annotatorC
+sense3,26120215_1987_12_31_01_267.tcf.xml-6-11	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1825-5793-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1825-5793-5	0	-	annotatorC
+sense0,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorC
+sense1,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorC
+sense2,26120215_1986_07_31_01_078.tcf.xml-8-3	1	-	annotatorC
+sense3,26120215_1986_07_31_01_078.tcf.xml-8-3	0	-	annotatorC
+sense0,brehm_thierleben06_1869-9905-3	0	-	annotatorC
+sense1,brehm_thierleben06_1869-9905-3	1	-	annotatorC
+sense2,brehm_thierleben06_1869-9905-3	0	-	annotatorC
+sense3,brehm_thierleben06_1869-9905-3	0	-	annotatorC
+sense0,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorC
+sense1,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorC
+sense2,2532889X_1990-05-29_01_086.tcf.xml-10-3	1	-	annotatorC
+sense3,2532889X_1990-05-29_01_086.tcf.xml-10-3	0	-	annotatorC
+sense0,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorC
+sense1,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorC
+sense2,26120215_1974_09_29_01_351.tcf.xml-4-16	1	-	annotatorC
+sense3,26120215_1974_09_29_01_351.tcf.xml-4-16	0	-	annotatorC
+sense0,brehm_thierleben06_1869-25551-19	0	-	annotatorC
+sense1,brehm_thierleben06_1869-25551-19	1	-	annotatorC
+sense2,brehm_thierleben06_1869-25551-19	0	-	annotatorC
+sense3,brehm_thierleben06_1869-25551-19	0	-	annotatorC
+sense0,26120215_1974_11_02_01_287.tcf.xml-18-1	-	Aus der Äußerung geht nicht hervor, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense1,26120215_1974_11_02_01_287.tcf.xml-18-1	-	Aus der Äußerung geht nicht hervor, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense2,26120215_1974_11_02_01_287.tcf.xml-18-1	-	Aus der Äußerung geht nicht hervor, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense3,26120215_1974_11_02_01_287.tcf.xml-18-1	-	Aus der Äußerung geht nicht hervor, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense0,26120215_1987_08_18_01_335.tcf.xml-12-11	1	-	annotatorC
+sense1,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorC
+sense2,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorC
+sense3,26120215_1987_08_18_01_335.tcf.xml-12-11	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1815-5519-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1815-5519-5	0	-	annotatorC
+sense0,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorC
+sense1,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorC
+sense2,2532889X_1988-12-27_01_066.tcf.xml-17-1	1	-	annotatorC
+sense3,2532889X_1988-12-27_01_066.tcf.xml-17-1	0	-	annotatorC
+sense0,vogt_briefe01_1851-7235-1	0	-	annotatorC
+sense1,vogt_briefe01_1851-7235-1	1	-	annotatorC
+sense2,vogt_briefe01_1851-7235-1	0	-	annotatorC
+sense3,vogt_briefe01_1851-7235-1	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1803-5233-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1803-5233-5	0	-	annotatorC
+sense0,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorC
+sense1,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorC
+sense2,26120215_1982_04_30_01_337.tcf.xml-1-32	1	-	annotatorC
+sense3,26120215_1982_04_30_01_337.tcf.xml-1-32	0	-	annotatorC
+sense0,brehm_thierleben06_1869-9898-7	0	-	annotatorC
+sense1,brehm_thierleben06_1869-9898-7	1	-	annotatorC
+sense2,brehm_thierleben06_1869-9898-7	0	-	annotatorC
+sense3,brehm_thierleben06_1869-9898-7	0	-	annotatorC
+sense0,boelsche_liebesleben01_1898-6183-7	0	-	annotatorC
+sense1,boelsche_liebesleben01_1898-6183-7	1	-	annotatorC
+sense2,boelsche_liebesleben01_1898-6183-7	0	-	annotatorC
+sense3,boelsche_liebesleben01_1898-6183-7	0	-	annotatorC
+sense0,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorC
+sense1,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorC
+sense2,2532889X_1985-11-21_01_061.tcf.xml-19-29	1	-	annotatorC
+sense3,2532889X_1985-11-21_01_061.tcf.xml-19-29	0	-	annotatorC
+sense0,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorC
+sense1,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorC
+sense2,26120215_1984_05_02_01_053.tcf.xml-34-24	1	-	annotatorC
+sense3,26120215_1984_05_02_01_053.tcf.xml-34-24	0	-	annotatorC
+sense0,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorC
+sense1,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorC
+sense2,2532889X_1972-09-07_01_053.tcf.xml-21-5	1	-	annotatorC
+sense3,2532889X_1972-09-07_01_053.tcf.xml-21-5	0	-	annotatorC
+sense0,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorC
+sense1,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorC
+sense2,26120215_1982_03_20_01_085.tcf.xml-11-18	1	-	annotatorC
+sense3,26120215_1982_03_20_01_085.tcf.xml-11-18	0	-	annotatorC
+sense0,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorC
+sense1,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorC
+sense2,2532889X_1988-01-05_01_062.tcf.xml-14-25	1	-	annotatorC
+sense3,2532889X_1988-01-05_01_062.tcf.xml-14-25	0	-	annotatorC
+sense0,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorC
+sense1,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorC
+sense2,26120215_1990_02_22_01_082.tcf.xml-25-18	1	-	annotatorC
+sense3,26120215_1990_02_22_01_082.tcf.xml-25-18	0	-	annotatorC
+sense0,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorC
+sense1,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorC
+sense2,2532889X_1977-12-20_01_057.tcf.xml-4-29	1	-	annotatorC
+sense3,2532889X_1977-12-20_01_057.tcf.xml-4-29	0	-	annotatorC
+sense0,blumenbach_anatomie_1815-1035-1	0	-	annotatorC
+sense1,blumenbach_anatomie_1815-1035-1	1	-	annotatorC
+sense2,blumenbach_anatomie_1815-1035-1	0	-	annotatorC
+sense3,blumenbach_anatomie_1815-1035-1	0	-	annotatorC
+sense0,brehm_thierleben06_1869-25551-10	0	-	annotatorC
+sense1,brehm_thierleben06_1869-25551-10	1	-	annotatorC
+sense2,brehm_thierleben06_1869-25551-10	0	-	annotatorC
+sense3,brehm_thierleben06_1869-25551-10	0	-	annotatorC
+sense0,vogt_briefe01_1851-6563-3	0	-	annotatorC
+sense1,vogt_briefe01_1851-6563-3	1	-	annotatorC
+sense2,vogt_briefe01_1851-6563-3	0	-	annotatorC
+sense3,vogt_briefe01_1851-6563-3	0	-	annotatorC
+sense0,brehm_thierleben06_1869-9880-11	0	-	annotatorC
+sense1,brehm_thierleben06_1869-9880-11	1	-	annotatorC
+sense2,brehm_thierleben06_1869-9880-11	0	-	annotatorC
+sense3,brehm_thierleben06_1869-9880-11	0	-	annotatorC
+sense0,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorC
+sense1,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorC
+sense2,2532889X_1986-07-29_01_081.tcf.xml-6-12	1	-	annotatorC
+sense3,2532889X_1986-07-29_01_081.tcf.xml-6-12	0	-	annotatorC
+sense0,paul_titan01_1800-265-59	0	-	annotatorC
+sense1,paul_titan01_1800-265-59	1	-	annotatorC
+sense2,paul_titan01_1800-265-59	0	-	annotatorC
+sense3,paul_titan01_1800-265-59	0	-	annotatorC
+sense0,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorC
+sense1,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorC
+sense2,26120215_1982_09_25_01_107.tcf.xml-45-3	1	-	annotatorC
+sense3,26120215_1982_09_25_01_107.tcf.xml-45-3	0	-	annotatorC
+sense0,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorC
+sense1,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorC
+sense2,2532889X_1973-02-03_01_347.tcf.xml-11-30	1	-	annotatorC
+sense3,2532889X_1973-02-03_01_347.tcf.xml-11-30	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1821-5626-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1821-5626-5	0	-	annotatorC
+sense0,vogt_briefe02_1851-7019-780	0	-	annotatorC
+sense1,vogt_briefe02_1851-7019-780	1	-	annotatorC
+sense2,vogt_briefe02_1851-7019-780	0	-	annotatorC
+sense3,vogt_briefe02_1851-7019-780	0	-	annotatorC
+sense0,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorC
+sense1,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorC
+sense2,26120215_1983_04_14_01_329.tcf.xml-23-76	1	-	annotatorC
+sense3,26120215_1983_04_14_01_329.tcf.xml-23-76	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1832-6008-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1832-6008-5	0	-	annotatorC
+sense0,druskowitz_religionsersatz_1886-614-18	0	-	annotatorC
+sense1,druskowitz_religionsersatz_1886-614-18	1	-	annotatorC
+sense2,druskowitz_religionsersatz_1886-614-18	0	-	annotatorC
+sense3,druskowitz_religionsersatz_1886-614-18	0	-	annotatorC
+sense0,brehm_thierleben06_1869-9873-5	0	-	annotatorC
+sense1,brehm_thierleben06_1869-9873-5	1	-	annotatorC
+sense2,brehm_thierleben06_1869-9873-5	0	-	annotatorC
+sense3,brehm_thierleben06_1869-9873-5	0	-	annotatorC
+sense0,2532889X_1969-02-18_01_092.tcf.xml-39-11	1	-	annotatorC
+sense1,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorC
+sense2,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorC
+sense3,2532889X_1969-02-18_01_092.tcf.xml-39-11	0	-	annotatorC
+sense0,brehm_thierleben06_1869-25551-1	0	-	annotatorC
+sense1,brehm_thierleben06_1869-25551-1	1	-	annotatorC
+sense2,brehm_thierleben06_1869-25551-1	0	-	annotatorC
+sense3,brehm_thierleben06_1869-25551-1	0	-	annotatorC
+sense0,brehm_thierleben06_1869-9854-2	0	-	annotatorC
+sense1,brehm_thierleben06_1869-9854-2	1	-	annotatorC
+sense2,brehm_thierleben06_1869-9854-2	0	-	annotatorC
+sense3,brehm_thierleben06_1869-9854-2	0	-	annotatorC
+sense0,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorC
+sense1,blumenbach_naturgeschichte_1814-5476-5	1	-	annotatorC
+sense2,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorC
+sense3,blumenbach_naturgeschichte_1814-5476-5	0	-	annotatorC
+sense0,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	Aus der Aufzählung wird nicht klar, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense1,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	Aus der Aufzählung wird nicht klar, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense2,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	Aus der Aufzählung wird nicht klar, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense3,2532889X_1983-01-22_01_311.tcf.xml-29-1	-	Aus der Aufzählung wird nicht klar, worauf sich “Ohrwurm” hier bezieht	annotatorC
+sense0,carus_zoologie_1872-6097-29	0	-	annotatorC
+sense1,carus_zoologie_1872-6097-29	1	-	annotatorC
+sense2,carus_zoologie_1872-6097-29	0	-	annotatorC
+sense3,carus_zoologie_1872-6097-29	0	-	annotatorC
+sense0,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorC
+sense1,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorC
+sense2,2532889X_1971-05-11_01_158.tcf.xml-9-6	1	-	annotatorC
+sense3,2532889X_1971-05-11_01_158.tcf.xml-9-6	0	-	annotatorC
+sense0,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorC
+sense1,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorC
+sense2,2532889X_1984-10-26_01_061.tcf.xml-18-2	1	-	annotatorC
+sense3,2532889X_1984-10-26_01_061.tcf.xml-18-2	0	-	annotatorC
+sense0,blumenbach_anatomie_1805-990-1	0	-	annotatorC
+sense1,blumenbach_anatomie_1805-990-1	1	-	annotatorC
+sense2,blumenbach_anatomie_1805-990-1	0	-	annotatorC
+sense3,blumenbach_anatomie_1805-990-1	0	-	annotatorC
+sense0,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorC
+sense1,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorC
+sense2,2532889X_1989-09-08_01_107.tcf.xml-23-23	1	-	annotatorC
+sense3,2532889X_1989-09-08_01_107.tcf.xml-23-23	0	-	annotatorC
+sense0,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorC
+sense1,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorC
+sense2,26120215_1981_12_22_01_078.tcf.xml-14-17	1	-	annotatorC
+sense3,26120215_1981_12_22_01_078.tcf.xml-14-17	0	-	annotatorC
+sense0,brehm_thierleben06_1869-8065-76	0	-	annotatorC
+sense1,brehm_thierleben06_1869-8065-76	1	-	annotatorC
+sense2,brehm_thierleben06_1869-8065-76	0	-	annotatorC
+sense3,brehm_thierleben06_1869-8065-76	0	-	annotatorC

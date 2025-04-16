@@ -1,0 +1,276 @@
+senseID	definition	lemma
+order%2:30:00::	bring order to or into	order.v
+order%2:30:01::	place in a certain order	order.v
+order%2:31:00::	assign a rank or rating to	order.v
+order%2:31:01::	arrange thoughts, ideas, temporal events	order.v
+order%2:32:00::	make a request for something	order.v
+order%2:32:01::	give instructions to or direct somebody to do something with authority	order.v
+order%2:32:02::	issue commands or orders for	order.v
+order%2:41:01::	bring into conformity with rules or principles or usage; impose regulations	order.v
+order%2:41:02::	appoint to a clerical posts	order.v
+range%1:06:00::	a place for shooting (firing or driving) projectiles of various kinds	range.n
+range%1:06:01::	a kitchen appliance used for cooking food	range.n
+range%1:07:00::	an area in which something acts or operates or has power or control:	range.n
+range%1:09:00::	the limit of capability	range.n
+range%1:14:00::	a variety of different things or activities	range.n
+range%1:14:01::	(mathematics) the set of values of the dependent variable for which a function is defined	range.n
+range%1:15:01::	the limits within which something can be effective	range.n
+range%1:15:02::	a large tract of grassy open land on which livestock can graze	range.n
+range%1:17:00::	a series of hills or mountains	range.n
+fire%2:30:00::	bake in a kiln so as to harden	fire.v
+fire%2:30:01::	destroy by fire	fire.v
+fire%2:33:00::	cause to go off	fire.v
+fire%2:33:01::	start firing a weapon	fire.v
+fire%2:33:02::	go off or discharge	fire.v
+fire%2:37:00::	call forth (emotions, feelings, and responses)	fire.v
+fire%2:38:02::	drive out or away by or as if by fire	fire.v
+fire%2:40:00::	provide with fuel	fire.v
+fire%2:41:00::	terminate the employment of; discharge from an office or position	fire.v
+stiff%3:00:00::	having a strong physiological or chemical effect; ; ; ,	stiff.a
+stiff%5:00:00:formal:01	rigidly formal	stiff.a
+stiff%5:00:00:immobile:00	not moving or operating freely	stiff.a
+stiff%5:00:00:intoxicated:00	very drunk	stiff.a
+stiff%5:00:00:resolute:00	marked by firm determination or resolution; not shakable	stiff.a
+stiff%5:00:00:strong:00	powerful	stiff.a
+stiff%5:00:01:inflexible:01	incapable of or resistant to bending	stiff.a
+account%1:07:00::	the quality of taking advantage	account.n
+account%1:07:01::	importance or value	account.n
+account%1:10:00::	a record or narrative description of past events	account.n
+account%1:10:02::	an itemized statement of money owed for goods shipped or services rendered	account.n
+account%1:10:03::	a short account of the news	account.n
+account%1:10:04::	a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.	account.n
+account%1:10:05::	the act of informing by verbal report	account.n
+account%1:16:00::	grounds	account.n
+account%1:21:02::	a statement of recent transactions and the resulting balance	account.n
+account%1:26:00::	a formal contractual relationship established to provide for regular banking or brokerage or business services	account.n
+ring%1:06:00::	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	ring.n
+ring%1:06:01::	a strip of material attached to the leg of a bird to identify it (as in studies of bird migration)	ring.n
+ring%1:06:02::	a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling	ring.n
+ring%1:06:03::	a platform usually marked off by ropes in which contestants box or wrestle	ring.n
+ring%1:07:00::	a characteristic sound	ring.n
+ring%1:11:00::	the sound of a bell ringing; ; ; --E. A. Poe	ring.n
+ring%1:14:00::	an association of criminals	ring.n
+ring%1:17:00::	(chemistry) a chain of atoms in a molecule that forms a closed loop	ring.n
+ring%1:25:00::	a toroidal shape	ring.n
+bright%3:00:00::	emitting or reflecting light readily or in large amounts	bright.a
+bright%3:00:02::	not made dim or less bright	bright.a
+bright%5:00:00:auspicious:00	full or promise	bright.a
+bright%5:00:00:colorful:00	having striking color	bright.a
+bright%5:00:00:glorious:00	splendid	bright.a
+bright%5:00:00:happy:00	characterized by happiness or gladness	bright.a
+bright%5:00:00:intelligent:00	characterized by quickness and ease in learning	bright.a
+bright%5:00:00:light:06	having lots of light either natural or artificial	bright.a
+bright%5:00:00:polished:00	made smooth and bright by or as if by rubbing; reflecting a sheen or glow	bright.a
+bright%5:00:00:reverberant:00	clear and sharp and ringing	bright.a
+investigator%1:18:00::	someone who investigates	investigator.n
+investigator%1:18:01::	a scientist who devotes himself to doing research	investigator.n
+investigator%1:18:02::	a police officer who investigates crimes	investigator.n
+rich%3:00:00::	possessing material wealth	rich.a
+rich%3:00:02::	having an abundant supply of desirable qualities or substances (especially natural resources)	rich.a
+rich%3:00:03::	suggestive of or characterized by great expense	rich.a
+rich%3:00:04::	high in mineral content; having a high proportion of fuel to air; ,	rich.a
+rich%5:00:00:abundant:00	affording an abundant supply	rich.a
+rich%5:00:00:colorful:00	strong; intense	rich.a
+rich%5:00:00:fruitful:00	marked by great fruitfulness	rich.a
+rich%5:00:00:full:01	pleasantly full and mellow	rich.a
+rich%5:00:00:tasty:00	marked by richness and fullness of flavor	rich.a
+rich%5:00:00:unwholesome:00	containing plenty of fat, or eggs, or sugar	rich.a
+rich%5:00:00:valuable:00	of great worth or quality	rich.a
+rich%5:00:02:productive:00	very productive	rich.a
+soft%3:00:00::	produced with vibration of the vocal cords	soft.a
+soft%3:00:01::	yielding readily to pressure or weight	soft.a
+soft%3:00:02::	compassionate and kind; conciliatory	soft.a
+soft%3:00:03::	(of speech sounds); produced with the back of the tongue raised toward the hard palate; characterized by a hissing or hushing sound (as `s' and `sh')	soft.a
+soft%3:00:04::	(of sound) relatively low in volume	soft.a
+soft%3:00:05::	(of light) transmitted from a broad light source or reflected	soft.a
+soft%3:00:06::	not protected against attack (especially by nuclear weapons)	soft.a
+soft%3:00:07::	used chiefly as a direction or description in music	soft.a
+soft%5:00:00:clement:02	mild and pleasant	soft.a
+soft%5:00:00:conciliatory:00	willing to negotiate and compromise	soft.a
+soft%5:00:00:dull:02	not brilliant or glaring	soft.a
+soft%5:00:00:easy:01	not burdensome or demanding; borne or done easily and without hardship	soft.a
+soft%5:00:00:falling:00	(of a commodity or market or currency) falling or likely to fall in value	soft.a
+soft%5:00:00:light:08	having little impact	soft.a
+soft%5:00:00:mild:00	soft and mild; not harsh or stern or severe	soft.a
+soft%5:00:00:permissive:01	tolerant or lenient	soft.a
+soft%5:00:00:qualitative:00	using evidence not readily amenable to experimental verification or refutation	soft.a
+soft%5:00:00:tender:02	easily hurt	soft.a
+soft%5:00:00:unfit:01	out of condition; not strong or robust; incapable of exertion or endurance	soft.a
+fix%2:29:00::	make infertile	fix.v
+fix%2:30:00::	make fixed, stable or stationary	fix.v
+fix%2:30:01::	restore by replacing a part or putting together what is torn or broken	fix.v
+fix%2:30:02::	kill, preserve, and harden (tissue) in order to prepare for microscopic study	fix.v
+fix%2:30:03::	make ready or suitable or equip in advance for a particular purpose or for some use, event, etc	fix.v
+fix%2:32:03::	decide upon or fix definitely	fix.v
+fix%2:33:00::	take vengeance on or get even	fix.v
+fix%2:35:00::	cause to be firmly attached	fix.v
+fix%2:35:01::	put (something somewhere) firmly	fix.v
+fix%2:36:00::	prepare for eating by applying heat	fix.v
+fix%2:36:01::	set or place definitely	fix.v
+fix%2:41:04::	influence an event or its outcome by illegal means	fix.v
+rough%3:00:00::	having or caused by an irregular surface	rough.a
+rough%3:00:02::	of the margin of a leaf shape; having the edge cut or fringed or scalloped	rough.a
+rough%3:00:04::	causing or characterized by jolts and irregular movements	rough.a
+rough%3:00:05::	not shaped by cutting or trimming	rough.a
+rough%5:00:00:aggressive:00	ready and able to resort to force or violence; - Herman Melville	rough.a
+rough%5:00:00:cacophonous:00	unpleasantly harsh or grating in sound	rough.a
+rough%5:00:00:difficult:00	full of hardship or trials	rough.a
+rough%5:00:00:inexact:00	not quite exact or correct	rough.a
+rough%5:00:00:stormy:00	violently agitated and turbulent; ; - Ezra Pound	rough.a
+rough%5:00:00:unkind:00	unkind or cruel or uncivil	rough.a
+rough%5:00:00:unpleasant:00	unpleasantly stern	rough.a
+rough%5:00:00:unpolished:00	not perfected	rough.a
+rough%5:00:00:unrefined:01	(of persons or behavior) lacking refinement or finesse	rough.a
+rough%5:00:00:unskilled:00	not carefully or expertly made	rough.a
+new%3:00:00::	not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered	new.a
+new%3:00:09::	unaffected by use or exposure	new.a
+new%5:00:00:early:02	(of crops) harvested at an early stage of development; before complete maturity	new.a
+new%5:00:00:inexperienced:00	lacking training or experience	new.a
+new%5:00:00:original:00	original and of a kind not seen before	new.a
+new%5:00:00:other:00	other than the former one(s); different	new.a
+new%5:00:00:unaccustomed:00	unfamiliar	new.a
+new%5:00:00:unprecedented:00	having no previous example or precedent or parallel	new.a
+new%5:00:01:late:01	used of a living language; being the current stage in its development	new.a
+new%5:00:02:late:01	in use after medieval times	new.a
+new%5:00:02:original:00	(of a new kind or fashion) gratuitously new	new.a
+lead%1:04:00::	the playing of a card to start a trick in bridge	lead.n
+lead%1:04:01::	a position of leadership (especially in the phrase `take the lead')	lead.n
+lead%1:06:00::	mixture of graphite with clay in different degrees of hardness; the marking substance in a pencil	lead.n
+lead%1:06:01::	a jumper that consists of a short piece of wire	lead.n
+lead%1:06:02::	thin strip of metal used to separate lines of type in printing	lead.n
+lead%1:06:03::	restraint consisting of a rope (or light chain) used to restrain an animal	lead.n
+lead%1:07:01::	the timing of ignition relative to the position of the piston in an internal-combustion engine	lead.n
+lead%1:07:02::	an advantage held by a competitor in a race	lead.n
+lead%1:09:00::	evidence pointing to a possible solution	lead.n
+lead%1:10:00::	a news story of major importance	lead.n
+lead%1:10:01::	the introductory section of a story	lead.n
+lead%1:10:02::	an indication of potential opportunity	lead.n
+lead%1:15:00::	(baseball) the position taken by a base runner preparing to advance to the next base	lead.n
+lead%1:18:00::	an actor who plays a principal role	lead.n
+lead%1:23:00::	(sports) the score by which a team or individual is winning	lead.n
+lead%1:25:00::	the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)	lead.n
+lead%1:27:00::	a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey	lead.n
+skip%2:31:01::	bypass	skip.v
+skip%2:35:00::	cause to skip over a surface	skip.v
+skip%2:38:00::	jump lightly	skip.v
+skip%2:38:02::	leave suddenly	skip.v
+skip%2:38:03::	bound off one point after another	skip.v
+skip%2:42:00::	intentionally fail to attend	skip.v
+shed%2:29:00::	cast off hair, skin, horn, or feathers	shed.v
+shed%2:35:00::	cause or allow (a solid substance) to flow or run out or over	shed.v
+shed%2:35:01::	get rid of	shed.v
+shed%2:35:02::	pour out in drops or small quantities or as if in drops or small quantities	shed.v
+coach%1:06:00::	a carriage pulled by four horses with one driver	coach.n
+coach%1:06:01::	a railcar where passengers ride	coach.n
+coach%1:06:02::	a vehicle carrying many passengers; used for public transport	coach.n
+coach%1:18:00::	a person who gives private instruction (as in singing, acting, etc.)	coach.n
+coach%1:18:01::	(sports) someone in charge of training an athlete or a team	coach.n
+severely%4:02:01::	to a severe or serious degree	severely.r
+severely%4:02:02::	with sternness; in a severe manner	severely.r
+severely%4:02:03::	causing great damage or hardship	severely.r
+dismiss%2:30:09::	declare void	dismiss.v
+dismiss%2:32:00::	bar from attention or consideration	dismiss.v
+dismiss%2:32:01::	end one's encounter with somebody by causing or permitting the person to leave	dismiss.v
+dismiss%2:32:02::	cease to consider; put out of judicial consideration	dismiss.v
+dismiss%2:41:00::	terminate the employment of; discharge from an office or position	dismiss.v
+dismiss%2:41:01::	stop associating with	dismiss.v
+call%2:29:05::	rouse somebody from sleep with a call	call.v
+call%2:31:00::	challenge the sincerity or truthfulness of	call.v
+call%2:31:05::	consider or regard as being	call.v
+call%2:31:13::	utter in a loud voice or announce	call.v
+call%2:32:00::	ascribe a quality to or give a name of a common noun that reflects a quality	call.v
+call%2:32:01::	get or try to get into communication (with someone) by telephone	call.v
+call%2:32:02::	assign a specified (usually proper) proper name to	call.v
+call%2:32:03::	utter a characteristic note or cry	call.v
+call%2:32:04::	send a message or attempt to reach someone by radio, phone, etc.; make a signal to in order to transmit a message	call.v
+call%2:32:05::	order, request, or command to come	call.v
+call%2:32:06::	indicate a decision in regard to	call.v
+call%2:32:07::	challenge (somebody) to make good on a statement; charge with or censure for an offense	call.v
+call%2:32:08::	declare in the capacity of an umpire or referee	call.v
+call%2:32:09::	utter a sudden loud cry	call.v
+call%2:32:10::	make a prediction about; tell in advance	call.v
+call%2:32:11::	lure by imitating the characteristic call of an animal	call.v
+call%2:32:12::	require the presentation of for redemption before maturation	call.v
+call%2:32:13::	read aloud to check for omissions or absentees	call.v
+call%2:32:14::	order, summon, or request for a specific duty or activity, work, role	call.v
+call%2:32:15::	order or request or give a command for	call.v
+call%2:38:00::	give the calls (to the dancers) for a square dance	call.v
+call%2:40:05::	make a demand, as for a card or a suit or a show of hands	call.v
+call%2:40:09::	demand payment of (a loan)	call.v
+call%2:41:00::	pay a brief visit	call.v
+call%2:41:04::	call a meeting; invite or command to meet	call.v
+call%2:41:12::	make a stop in a harbour	call.v
+call%2:41:14::	greet, as with a prescribed form, title, or name	call.v
+call%2:42:09::	stop or postpone because of adverse conditions, such as bad weather	call.v
+suffer%2:29:00::	feel pain or be in pain	suffer.v
+suffer%2:29:01::	undergo (as of injuries and illnesses)	suffer.v
+suffer%2:29:03::	feel unwell or uncomfortable	suffer.v
+suffer%2:30:00::	get worse	suffer.v
+suffer%2:30:02::	be set at a disadvantage	suffer.v
+suffer%2:31:00::	put up with something or somebody unpleasant	suffer.v
+suffer%2:37:00::	experience (emotional) pain	suffer.v
+suffer%2:39:00::	feel physical pain	suffer.v
+suffer%2:39:01::	undergo or be subjected to	suffer.v
+suffer%2:39:02::	undergo or suffer	suffer.v
+suffer%2:42:04::	be given to	suffer.v
+shade%1:06:00::	protective covering that protects something from direct sunlight	shade.n
+shade%1:06:01::	a representation of the effect of shadows in a picture or drawing (as by shading or darker pigment)	shade.n
+shade%1:07:00::	a quality of a given color that differs slightly from another color	shade.n
+shade%1:09:01::	a mental representation of some haunting experience	shade.n
+shade%1:10:00::	a subtle difference in meaning or opinion or attitude	shade.n
+shade%1:23:00::	a slight amount or degree of difference	shade.n
+shade%1:26:00::	relative darkness caused by light rays being intercepted by an opaque body	shade.n
+shade%1:26:01::	a position of relative inferiority	shade.n
+scrap%1:04:00::	the act of fighting; any contest or struggle	scrap.n
+scrap%1:06:00::	a small piece of something that is left over after the rest has been used	scrap.n
+scrap%1:17:00::	a small fragment of something broken off from the whole	scrap.n
+scrap%1:27:00::	worthless material that is to be disposed of	scrap.n
+function%1:04:00::	the actions and activities assigned to or required or expected of a person or group	function.n
+function%1:07:00::	what something is used for	function.n
+function%1:10:00::	a set sequence of steps, part of larger computer program	function.n
+function%1:11:00::	a vaguely specified social event	function.n
+function%1:14:00::	a formal or official social gathering or ceremony	function.n
+function%1:24:00::	(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)	function.n
+function%1:24:01::	a relation such that one thing is dependent on another	function.n
+hold%2:29:04::	keep from exhaling or expelling	hold.v
+hold%2:31:01::	keep in mind or convey as a conviction or view	hold.v
+hold%2:31:04::	hold the attention of	hold.v
+hold%2:31:08::	assert or affirm	hold.v
+hold%2:31:10::	remain committed to	hold.v
+hold%2:32:11::	declare to be	hold.v
+hold%2:32:13::	bind by an obligation; cause to be indebted	hold.v
+hold%2:32:15::	be in accord; be in agreement	hold.v
+hold%2:33:00::	aim, point, or direct	hold.v
+hold%2:33:05::	protect against a challenge or attack	hold.v
+hold%2:34:00::	drink alcohol without showing ill effects	hold.v
+hold%2:35:00::	have or hold in one's hands or grip	hold.v
+hold%2:35:01::	be the physical support of; carry the weight of	hold.v
+hold%2:35:02::	support or hold in a certain manner	hold.v
+hold%2:35:03::	to close within bounds, limit or hold back from movement	hold.v
+hold%2:35:09::	cover as for protection against noise or smell	hold.v
+hold%2:36:00::	organize or be responsible for	hold.v
+hold%2:37:00::	maintain (a theory, thoughts, or feelings)	hold.v
+hold%2:38:05::	cause to stop	hold.v
+hold%2:40:00::	have or possess, either in a concrete or an abstract sense	hold.v
+hold%2:40:02::	secure and keep for possible future use or application	hold.v
+hold%2:40:04::	have rightfully; of rights, titles, and offices	hold.v
+hold%2:41:00::	arrange for and reserve (something for someone else) in advance	hold.v
+hold%2:41:13::	keep from departing	hold.v
+hold%2:41:14::	take and maintain control over, often by violent means	hold.v
+hold%2:41:15::	lessen the intensity of; temper; hold in restraint; hold or keep within limits	hold.v
+hold%2:42:00::	keep in a certain state, position, or activity; e.g.,	hold.v
+hold%2:42:01::	remain in a certain state, position, or condition	hold.v
+hold%2:42:02::	be valid, applicable, or true	hold.v
+hold%2:42:04::	be pertinent or relevant or applicable	hold.v
+hold%2:42:05::	have room for; hold without crowding	hold.v
+hold%2:42:07::	have as a major characteristic	hold.v
+hold%2:42:08::	resist or confront with resistance	hold.v
+hold%2:42:12::	stop dealing with	hold.v
+hold%2:42:13::	contain or hold; have within	hold.v
+hold%2:42:14::	be capable of holding or containing	hold.v
+neat%5:00:00:adroit:00	free from clumsiness; precisely or deftly executed	neat.a
+neat%5:00:00:elegant:00	free from what is tawdry or unbecoming	neat.a
+neat%5:00:00:good:01	very good	neat.a
+neat%5:00:00:tidy:00	clean or organized	neat.a
+neat%5:00:00:undiluted:00	without water	neat.a
+neat%5:00:03:tidy:00	showing care in execution	neat.a

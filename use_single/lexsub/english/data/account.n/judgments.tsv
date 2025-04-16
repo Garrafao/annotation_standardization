@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+1151	description	-	C
+1152	record	-	C
+1153	omit some details	-	C
+1154	record	-	C
+1155	history	-	C
+1156	record	-	C
+1157	record	-	C
+1158	transactional history	-	C
+1159	transaction	-	C
+1160	transaction	-	C
+1151	report	-	A
+1152	balance	-	A
+1153	consideration	-	A
+1154	balance	-	A
+1155	event	-	A
+1156	record	-	A
+1157	finance	-	A
+1158	finance	-	A
+1159	record	-	A
+1160	finance	-	A
+1151	review	-	F
+1152	record	-	F
+1153	consider	-	F
+1154	ledger	-	F
+1155	report	-	F
+1156	user	-	F
+1157	ledger	-	F
+1158	ledger	-	F
+1159	ledger	-	F
+1160	ledger	-	F
+1151	report	-	G
+1152	tab	-	G
+1153	explanation	-	G
+1154	saving	-	G
+1155	report	-	G
+1156	report	-	G
+1157	balance	-	G
+1158	tab	-	G
+1159	tab	-	G
+1160	tab	-	G
+1151	story	-	D
+1152		-	D
+1153	story	-	D
+1154	money holder	-	D
+1155	information	-	D
+1156	seperate 	-	D
+1157	bank record	-	D
+1158	record	-	D
+1159	record	-	D
+1160	record	-	D
+1151	narrative	-	H
+1152	record	-	H
+1153	explanation	-	H
+1154	record	-	H
+1155	event	-	H
+1156	record	-	H
+1157	record	-	H
+1158	record	-	H
+1159	record	-	H
+1160	record	-	H
+1151	explanation	-	I
+1152	holding	-	I
+1153	explanation	-	I
+1154	holding	-	I
+1155	story	-	I
+1156	user	-	I
+1157	holding	-	I
+1158	holding	-	I
+1159	record	-	I
+1160	holding	-	I
+1151	report	-	J
+1152	bank account	-	J
+1153	consideration	-	J
+1154		-	J
+1155	report	-	J
+1156		-	J
+1157	bank account	-	J
+1158	bank account	-	J
+1159	bank account	-	J
+1160	bank account	-	J

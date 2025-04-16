@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+1411	scientist	-	C
+1412	inquisitor	-	C
+1413	inquisitor	-	C
+1414	scientist	-	C
+1415	inquisitor	-	C
+1416	scientist	-	C
+1417	researcher	-	C
+1418	researcher	-	C
+1419	researcher	-	C
+1420	scientist	-	C
+1411	scientist	-	A
+1412	detective	-	A
+1413	agent	-	A
+1414	experimenter	-	A
+1415	research	-	A
+1416	scientist	-	A
+1417	agent	-	A
+1418	researcher	-	A
+1419	researcher	-	A
+1420	experimenter	-	A
+1411	researcher	-	F
+1412	researcher	-	F
+1413	researcher	-	F
+1414	researcher	-	F
+1415	inquirer	-	F
+1416	researcher	-	F
+1417	researcher	-	F
+1418	researcher	-	F
+1419	researcher	-	F
+1420	researcher	-	F
+1411	researcher	-	G
+1412	researcher	-	G
+1413	pollster	-	G
+1414	examiner	-	G
+1415	detective	-	G
+1416	researcher	-	G
+1417	researcher	-	G
+1418	researcher	-	G
+1419	examiner	-	G
+1420	researcher	-	G
+1411	biologist	-	D
+1412	spy	-	D
+1413	spy	-	D
+1414	psychologist	-	D
+1415	agent	-	D
+1416	doctor	-	D
+1417	reviewer	-	D
+1418	analyst	-	D
+1419	person	-	D
+1420	inquirer	-	D
+1411	researcher	-	H
+1412	detective	-	H
+1413	detective	-	H
+1414	researcher	-	H
+1415	inspector	-	H
+1416	researcher	-	H
+1417	detective	-	H
+1418	researcher	-	H
+1419	inspector	-	H
+1420	researcher	-	H
+1411	researcher	-	I
+1412	researcher	-	I
+1413	researcher	-	I
+1414	researcher	-	I
+1415	inspector	-	I
+1416	researcher	-	I
+1417	researcher	-	I
+1418	researcher	-	I
+1419	researcher	-	I
+1420	researcher	-	I
+1411		-	J
+1412		-	J
+1413		-	J
+1414		-	J
+1415		-	J
+1416		-	J
+1417		-	J
+1418		-	J
+1419		-	J
+1420		-	J

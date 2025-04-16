@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+901	sack	-	C
+902	ignore	-	C
+903	release	-	C
+904	sack	-	C
+905	discard	-	C
+906	discard	-	C
+907	discharge	-	C
+908	discharge	-	C
+909	sack	-	C
+910	sack	-	C
+901	fire	-	A
+902	reject	-	A
+903	release	-	A
+904	sack	-	A
+905	reject	-	A
+906	refused	-	A
+907	discharge	-	A
+908	send away	-	A
+909	fire	-	A
+910	fire	-	A
+901	fire	-	F
+902	disregard	-	F
+903	release	-	F
+904	fire	-	F
+905	disregard	-	F
+906	disregard	-	F
+907	excuse	-	F
+908	excuse	-	F
+909	fire	-	F
+910	fire	-	F
+901	sack	-	G
+902	ignore	-	G
+903	release	-	G
+904	sack	-	G
+905	overlook	-	G
+906	overlook	-	G
+907	release	-	G
+908	release	-	G
+909	sack	-	G
+910	sack	-	G
+901	let go of	-	D
+902	brush off	-	D
+903	ask to leave	-	D
+904	sack	-	D
+905	write off 	-	D
+906	pushed aside	-	D
+907	palm off	-	D
+908	cast off	-	D
+909	fire	-	D
+910	sack	-	D
+901	sack	-	H
+902	discard	-	H
+903	send	-	H
+904	sack	-	H
+905	discard	-	H
+906	discard	-	H
+907	discharge	-	H
+908	ignore	-	H
+909	sack	-	H
+910	sack	-	H
+901	fire	-	I
+902	disregard	-	I
+903	remove	-	I
+904	fire	-	I
+905	ignore	-	I
+906	disregard	-	I
+907	remove	-	I
+908	eject	-	I
+909	fire	-	I
+910	fire	-	I
+901	sack	-	J
+902	reject	-	J
+903	send away	-	J
+904	sack	-	J
+905	reject	-	J
+906	reject	-	J
+907	send away	-	J
+908	send away	-	J
+909	sack	-	J
+910	sack	-	J

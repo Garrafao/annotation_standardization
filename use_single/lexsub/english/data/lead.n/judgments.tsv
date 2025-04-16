@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+1881		-	C
+1882	head	-	C
+1883	leash	-	C
+1884	venture	-	C
+1885	idea	-	C
+1886	principal	-	C
+1887	wire	-	C
+1888	prospect	-	C
+1889	forefront	-	C
+1890	principle role	-	C
+1881		-	A
+1882	head	-	A
+1883	leash	-	A
+1884	example	-	A
+1885	example	-	A
+1886	main singer	-	A
+1887	wire	-	A
+1888	contact	-	A
+1889	ahead	-	A
+1890	charge	-	A
+1881	principal	-	F
+1882	principal	-	F
+1883	leash	-	F
+1884	example	-	F
+1885	example	-	F
+1886	first	-	F
+1887	cable	-	F
+1888	informant	-	F
+1889	head	-	F
+1890	head	-	F
+1881	guide	-	G
+1882	head	-	G
+1883	rope	-	G
+1884	direction	-	G
+1885	guide	-	G
+1886	head	-	G
+1887	rope	-	G
+1888	clue	-	G
+1889	front	-	G
+1890	become the forerunner	-	G
+1881	wire	-	D
+1882	head	-	D
+1883	leash	-	D
+1884	head	-	D
+1885	headstart	-	D
+1886	main	-	D
+1887	wire	-	D
+1888	information	-	D
+1889	winning spot	-	D
+1890	control	-	D
+1881	wire	-	H
+1882	head	-	H
+1883	leash	-	H
+1884	example	-	H
+1885	example	-	H
+1886	main	-	H
+1887	wire	-	H
+1888	clue	-	H
+1889	head	-	H
+1890	head	-	H
+1881		-	I
+1882	head	-	I
+1883	tether	-	I
+1884	example	-	I
+1885	path	-	I
+1886	vocals	-	I
+1887	wire	-	I
+1888	evidence	-	I
+1889	head	-	I
+1890	command	-	I
+1881	guide	-	J
+1882	head	-	J
+1883	leash	-	J
+1884	trail	-	J
+1885	example	-	J
+1886		-	J
+1887	front	-	J
+1888	information	-	J
+1889	be the front-runner	-	J
+1890	advantage	-	J

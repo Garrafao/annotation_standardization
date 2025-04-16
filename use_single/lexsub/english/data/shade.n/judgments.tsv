@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+1591	shelter	-	C
+1592	hue	-	C
+1593	shelter	-	C
+1594	tone	-	C
+1595		-	C
+1596	shelter	-	C
+1597	reminiscent	-	C
+1598	position of the sun	-	C
+1599	hue	-	C
+1600	sun glass	-	C
+1591	shadow	-	A
+1592	hue	-	A
+1593	shadow	-	A
+1594	hue	-	A
+1595	shadow	-	A
+1596	shadow	-	A
+1597		-	A
+1598	edge	-	A
+1599	level	-	A
+1600	sunglasses	-	A
+1591	cover	-	F
+1592	tone	-	F
+1593	cover	-	F
+1594	nuance	-	F
+1595	cover	-	F
+1596	cover	-	F
+1597	nuance	-	F
+1598	cover	-	F
+1599	tone	-	F
+1600	sunglasses	-	F
+1591	shelter	-	G
+1592	hue	-	G
+1593	shelter	-	G
+1594	hue	-	G
+1595	cover	-	G
+1596	shelter	-	G
+1597		-	G
+1598	hue	-	G
+1599	hue	-	G
+1600	sunglasses	-	G
+1591	protection	-	D
+1592	strength	-	D
+1593	protection	-	D
+1594	variety	-	D
+1595	large	-	D
+1596	cover	-	D
+1597	part	-	D
+1598	top	-	D
+1599	tenure	-	D
+1600	sunglasses	-	D
+1591	cover	-	H
+1592	tone	-	H
+1593	shadow	-	H
+1594	tone	-	H
+1595	cover	-	H
+1596	cover	-	H
+1597		-	H
+1598	tone	-	H
+1599	tone	-	H
+1600	sunglasses	-	H
+1591	cover	-	I
+1592	type	-	I
+1593	cover	-	I
+1594	type	-	I
+1595	cover	-	I
+1596	cover	-	I
+1597	type	-	I
+1598	colour	-	I
+1599	notch	-	I
+1600	sunglasses	-	I
+1591	cover	-	J
+1592	hue	-	J
+1593	cover	-	J
+1594	tone	-	J
+1595		-	J
+1596	shadow	-	J
+1597	hue	-	J
+1598	shadow	-	J
+1599	hue	-	J
+1600	dark glasses	-	J

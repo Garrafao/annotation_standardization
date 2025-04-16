@@ -1,0 +1,5 @@
+instanceID	data_ids	label_set	non_label
+plane_nn_1	nf_1830_747561.txt-644-9,nf_1853_747976.txt-1558-16	1,2	-
+face_nn_1	fic_1853_9040.txt-3170-14,news_2004_617201.txt-34-2	1,2	-
+head_nn_1	fic_1850_7304.txt-2042-5,fic_2002_31370.txt-91-14	1,2	-
+bag_nn_1	fic_1998_43802.txt-21-18,fic_1979_16368.txt-854-10	1,2	-

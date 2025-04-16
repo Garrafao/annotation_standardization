@@ -1,0 +1,81 @@
+instanceID	label	comment	annotator
+1531	spectrum	-	C
+1532	shooting gallery	-	C
+1533	distance	-	C
+1534	spectrum	-	C
+1535	variety	-	C
+1536	use	-	C
+1537	specification	-	C
+1538	target area	-	C
+1539	spectrum	-	C
+1540	variety	-	C
+1531	series	-	A
+1532	shooting area	-	A
+1533	limit	-	A
+1534	variety	-	A
+1535	array	-	A
+1536	movement	-	A
+1537	set	-	A
+1538	area	-	A
+1539	variety	-	A
+1540	variety	-	A
+1531	variety	-	F
+1532		-	F
+1533	extent	-	F
+1534	variety	-	F
+1535	variety	-	F
+1536	roam	-	F
+1537	span	-	F
+1538	field	-	F
+1539	variety	-	F
+1540	span	-	F
+1531	assortment	-	G
+1532		-	G
+1533	span	-	G
+1534	assortment	-	G
+1535	assortment	-	G
+1536	breadth	-	G
+1537	span	-	G
+1538	area	-	G
+1539	assortment	-	G
+1540	array	-	G
+1531	selection	-	D
+1532	field	-	D
+1533	area	-	D
+1534	variety	-	D
+1535	load	-	D
+1536	roam	-	D
+1537	selection	-	D
+1538	area	-	D
+1539	mix	-	D
+1540	selection	-	D
+1531	variety	-	H
+1532	plant	-	H
+1533	scope	-	H
+1534	variety	-	H
+1535	choice	-	H
+1536	run	-	H
+1537	choice	-	H
+1538	sphere	-	H
+1539	variety	-	H
+1540	variety	-	H
+1531	series	-	I
+1532		-	I
+1533	limit	-	I
+1534	choice	-	I
+1535	series	-	I
+1536	access	-	I
+1537	span	-	I
+1538	area	-	I
+1539	variety	-	I
+1540	variety	-	I
+1531	series	-	J
+1532	shooting range	-	J
+1533	reach	-	J
+1534	variety	-	J
+1535	variety	-	J
+1536	reach	-	J
+1537	span	-	J
+1538		-	J
+1539	variety	-	J
+1540	spread	-	J
